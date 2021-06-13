@@ -4,7 +4,7 @@ layout: default
 
 # Overview
 
-| **Date** | NeurIPS 2021 workshop on Monday, December 13, and Tuesday, December 14, 2021 |
+| **Date** | Monday, December 13 / Tuesday, December 14, 2021 |
 | **Location** | The workshop will be held *virtually*. |
 
 # Background

@@ -7,8 +7,8 @@ timezone: America/New_York
 
 navigation:
   Home: "/"
-  Speakers: "/speakers"
-  Organisers: "/organisers"
+  Speakers: "speakers.md"
+  Organisers: "organisers"
   Schedule: "/schedule"
   Programme Committee: "/committee"
   FAQ: "/faq"
