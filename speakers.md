@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Invited Speakers
 
 We are delighted to feature the following awesome speakers

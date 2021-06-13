@@ -1,2 +1,6 @@
+---
+layout: default
+---
+
 # Programme Committee
 
