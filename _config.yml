@@ -1,1 +1,25 @@
 theme: jekyll-theme-cayman
+
+title: Out-of-distribution generalization and adaptation in natural and artificial intelligence
+description: NeurIPS 2021 Workshop
+
+timezone: America/New_York
+
+navigation:
+  Home: "/"
+  Speakers: "/speakers"
+  Organisers: "/organisers"
+  Schedule: "/schedule"
+  Programme Committee: "/committee"
+  FAQ: "/faq"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: ["README.md", "Gemfile", "Gemfile.lock"]
