@@ -1,12 +1,12 @@
 theme: jekyll-theme-cayman
 
-title: Out-of-distribution generalization and adaptation in natural and artificial intelligence
+title: Out-of-distribution generalization and adaptation <br>in natural and artificial intelligence
 description: NeurIPS 2021 Workshop
 
 timezone: America/New_York
 
 navigation:
-  Home: "/"
+  Home: "index"
   Speakers: "speakers"
   Organisers: "organisers"
   Schedule: "schedule"
