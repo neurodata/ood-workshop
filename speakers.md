@@ -42,9 +42,7 @@ We are delighted to feature the following awesome speakers
 
 | **Affiliation** | [Microsoft](https://microsoft.fandom.com/wiki/Eric_Traut) |
 | **Biography** | Eric Traut is an American software engineer and software emulation pioneer. Traut graduated from Stanford University in 1992. From 1993 to 1995 he worked for Apple Computer, creating a Mac 68K emulator to be used in PowerPC-based Macintoshes.His work on this project led to a patent on a form of dynamic recompilation.
-
 Traut went on to join Connectix, where he developed successful commercial emulators such as Virtual PC and Virtual Game Station. He became Connectix's Chief Technical Officer in 2001.
-
 Traut became a Microsoft employee after the company purchased Connectix in 2003. Traut left Microsoft in late 2012. Traut rejoined Microsoft in May 2014 and is now a Technical Fellow.
 
 
@@ -76,7 +74,7 @@ Traut became a Microsoft employee after the company purchased Connectix in 2003.
 
 | <img src="https://cims.nyu.edu/~brenden/brenden.jpg" alt="Brenden Lake" height="250px" /> |
 
-| **Affiliation** | [New York University, Facebook AI Research](https://cims.nyu.edu/~brenden/) |
+| **Affiliation** | [New York University / Facebook AI Research](https://cims.nyu.edu/~brenden/) |
 | **Biography** | Brenden is an Assistant Professor of Psychology and Data Science at New York University, and a Research Scientist at Facebook AI Research. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017. Brenden’s research focuses on computational problems that are easier for people than they are for machines, such as learning new concepts, compositional generalization, and question asking.
 
 
@@ -105,7 +103,7 @@ Traut became a Microsoft employee after the company purchased Connectix in 2003.
 
 | <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Headshot__0125_cropped_doug-burger.jpg" alt="Doug Burger" height="250px" /> |
 
-| **Affiliation** | [Microsoft Research/University of Texas-Austin](https://psychology.berkeley.edu/people/celeste-kidd) |
+| **Affiliation** | [Microsoft Research / University of Texas-Austin](https://psychology.berkeley.edu/people/celeste-kidd) |
 | **Biography** | Doug Burger is one of the world’s leading active researchers in computer architecture, with a broad set of important contributions to his credit. After receiving his PhD from University of Wisconsin in 1998, he joined UT Austin as a professor, receiving tenure in 2004 and becoming a full professor in 2008. His work on Explicit Data Graph Computing (EDGE) represents the fourth major class of instruction-set architectures (after CISC, RISC, and VLIW). At U. Texas, he co-led the project that conceived and built the TRIPS processor, an ambitious multicore ASIC and working EDGE system, which remains one of the most complex microprocessor prototypes ever built in academia. 
 
 
@@ -129,7 +127,6 @@ Traut became a Microsoft employee after the company purchased Connectix in 2003.
 
 | **Affiliation** | [Harvard University](https://www.engertlab.org/) |
 | **Biography** | Florian Engert received his Ph.D. in physics from Ludwig Maximilian University of Munich 1997. He spent the following two years as a postdoctoral fellow at the Max Planck Institute for Neurobiology in Munich, followed by two more years as a postdoc, first at the University of California. San Diego, and then at the University of California, Berkeley. In 2002, he accepted a position as assistant professor at Harvard University, where he received tenure and was promoted to full professor in 2009.
-
 The general goal of his laboratory at present and in the intermediate future is the development of the larval zebrafish as a model system for the comprehensive identification and examination of neural circuits controlling visually induced behaviors. To that end, he established and quantified a series of visually induced behaviors and analyzed the individual resulting motor components. Using these assays, his laboratory established technology that monitors neuronal activity throughout the fish brain in an awake and intact preparation. An extended goal is the study of how changes or variations in the behavior are reflected in changes in the underlying neuronal activity.
 
 
@@ -139,7 +136,6 @@ The general goal of his laboratory at present and in the intermediate future is 
 
 | **Affiliation** | [Mila – Quebec AI Institute](https://yoshuabengio.org/) |
 | **Biography** | Recognized worldwide as one of the leading experts in artificial intelligence, Yoshua Bengio is most known for his pioneering work in deep learning, earning him the 2018 A.M. Turing Award, “the Nobel Prize of Computing,” with Geoffrey Hinton and Yann LeCun.
-
 He is a Full Professor at Université de Montréal, and the Founder and Scientific Director of Mila – Quebec AI Institute. He co-directs the CIFAR Learning in Machines & Brains program as Senior Fellow and acts as Scientific Director of IVADO.
 
 
@@ -149,12 +145,11 @@ He is a Full Professor at Université de Montréal, and the Founder and Scientif
 
 | **Affiliation** | [Salk Institute for Biological Studies](salk.edu/scientist/terrence-sejnowski/) |
 | **Biography** | Terrence Joseph Sejnowski is the Francis Crick Professor at the Salk Institute for Biological Studies where he directs the Computational Neurobiology Laboratory and is the director of the Crick-Jacobs center for theoretical and computational biology. His research in neural networks and computational neuroscience has been pioneering. 
-
 Sejnowski is also Professor of Biological Sciences and adjunct professor in the departments of neurosciences, psychology, cognitive science, computer science and engineering at the University of California, San Diego, where he is co-director of the Institute for Neural Computation.
 
 ## Anima Anandkumar
 
 | <img src="https://blogs.nvidia.com/wp-content/uploads/2019/12/Anima-Anandkumar-200x200.jpg" alt="Anima Anandkumar" height="250px" /> |
 
-| **Affiliation** | [Caltech, NVIDIA](salk.edu/scientist/terrence-sejnowski/) |
+| **Affiliation** | [Caltech / NVIDIA](salk.edu/scientist/terrence-sejnowski/) |
 | **Biography** | Anima Anandkumar holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At NVIDIA, she is leading the research group that develops next-generation AI algorithms. At Caltech, she is the co-director of Dolcit and co-leads the AI4science initiative.
