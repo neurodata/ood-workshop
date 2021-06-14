@@ -42,8 +42,7 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 | **Affiliation** | [Microsoft](https://microsoft.fandom.com/wiki/Eric_Traut) |
 | **Biography** | Eric Traut is an American software engineer and software emulation pioneer. Traut graduated from Stanford University in 1992. From 1993 to 1995 he worked for Apple Computer, creating a Mac 68K emulator to be used in PowerPC-based Macintoshes.His work on this project led to a patent on a form of dynamic recompilation.
-Traut went on to join Connectix, where he developed successful commercial emulators such as Virtual PC and Virtual Game Station. He became Connectix's Chief Technical Officer in 2001.
-Traut became a Microsoft employee after the company purchased Connectix in 2003. Traut left Microsoft in late 2012. Traut rejoined Microsoft in May 2014 and is now a Technical Fellow.
+Traut went on to join Connectix, where he developed successful commercial emulators such as Virtual PC and Virtual Game Station. He became Connectix's Chief Technical Officer in 2001. Traut became a Microsoft employee after the company purchased Connectix in 2003. Traut left Microsoft in late 2012. Traut rejoined Microsoft in May 2014 and is now a Technical Fellow.
 
 
 ## Josh Tenenbaum
