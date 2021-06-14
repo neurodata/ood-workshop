@@ -4,7 +4,7 @@ layout: default
 
 # Invited Speakers
 
-We are delighted to feature the following awesome speakers
+We are delighted to feature the following awesome speakers organized into six panels
 
 
 - Continual: 
@@ -106,7 +106,6 @@ Traut became a Microsoft employee after the company purchased Connectix in 2003.
 | **Affiliation** | [Microsoft Research / University of Texas-Austin](https://psychology.berkeley.edu/people/celeste-kidd) |
 | **Biography** | Doug Burger is one of the world’s leading active researchers in computer architecture, with a broad set of important contributions to his credit. After receiving his PhD from University of Wisconsin in 1998, he joined UT Austin as a professor, receiving tenure in 2004 and becoming a full professor in 2008. His work on Explicit Data Graph Computing (EDGE) represents the fourth major class of instruction-set architectures (after CISC, RISC, and VLIW). At U. Texas, he co-led the project that conceived and built the TRIPS processor, an ambitious multicore ASIC and working EDGE system, which remains one of the most complex microprocessor prototypes ever built in academia. 
 
-
 ## Alysson Muotri
 
 | <img src="https://medschool.ucsd.edu/som/pediatrics/research/labs/muotri-lab/PublishingImages/Alysson_Muotri%20copy.jpg" alt="Alysson Muotri" height="250px" /> |
@@ -129,7 +128,6 @@ Traut became a Microsoft employee after the company purchased Connectix in 2003.
 | **Biography** | Florian Engert received his Ph.D. in physics from Ludwig Maximilian University of Munich 1997. He spent the following two years as a postdoctoral fellow at the Max Planck Institute for Neurobiology in Munich, followed by two more years as a postdoc, first at the University of California. San Diego, and then at the University of California, Berkeley. In 2002, he accepted a position as assistant professor at Harvard University, where he received tenure and was promoted to full professor in 2009.
 The general goal of his laboratory at present and in the intermediate future is the development of the larval zebrafish as a model system for the comprehensive identification and examination of neural circuits controlling visually induced behaviors. To that end, he established and quantified a series of visually induced behaviors and analyzed the individual resulting motor components. Using these assays, his laboratory established technology that monitors neuronal activity throughout the fish brain in an awake and intact preparation. An extended goal is the study of how changes or variations in the behavior are reflected in changes in the underlying neuronal activity.
 
-
 ## Yoshua Bengio
 
 | <img src="https://awards.acm.org/binaries/content/gallery/acm/awards/photo/a-b/bengio_3406375" alt="Yoshua Bengio" height="250px" /> |
@@ -137,7 +135,6 @@ The general goal of his laboratory at present and in the intermediate future is 
 | **Affiliation** | [Mila – Quebec AI Institute](https://yoshuabengio.org/) |
 | **Biography** | Recognized worldwide as one of the leading experts in artificial intelligence, Yoshua Bengio is most known for his pioneering work in deep learning, earning him the 2018 A.M. Turing Award, “the Nobel Prize of Computing,” with Geoffrey Hinton and Yann LeCun.
 He is a Full Professor at Université de Montréal, and the Founder and Scientific Director of Mila – Quebec AI Institute. He co-directs the CIFAR Learning in Machines & Brains program as Senior Fellow and acts as Scientific Director of IVADO.
-
 
 ## Terry Sejnowski
 
