@@ -120,29 +120,27 @@ Traut became a Microsoft employee after the company purchased Connectix in 2003.
 | **Affiliation** | [Stanford University](https://web.stanford.edu/group/brainsinsilicon/boahen.html) |
 | **Biography** | Kwabena Adu Boahen is a Professor of Bioengineering and Electrical Engineering at Stanford University. Boahen is widely regarded as one of the pioneers of neuromorphic engineering. In contrast to the field of artificial intelligence, which merely takes inspiration from the brain, neuromorphic engineers seek to develop a new computing paradigm based on the brain's organizing principles. 
 
+
 ## Florian Engert
 
 | <img src="https://dmg5c1valy4me.cloudfront.net/wp-content/uploads/2016/07/29214138/engert_florian022_mco.jpg" alt="Florian Engert" height="250px" /> |
 
-| **Affiliation** | [Harvard University](https://www.engertlab.org/) |
-| **Biography** | Florian Engert received his Ph.D. in physics from Ludwig Maximilian University of Munich 1997. He spent the following two years as a postdoctoral fellow at the Max Planck Institute for Neurobiology in Munich, followed by two more years as a postdoc, first at the University of California. San Diego, and then at the University of California, Berkeley. In 2002, he accepted a position as assistant professor at Harvard University, where he received tenure and was promoted to full professor in 2009.
-The general goal of his laboratory at present and in the intermediate future is the development of the larval zebrafish as a model system for the comprehensive identification and examination of neural circuits controlling visually induced behaviors. To that end, he established and quantified a series of visually induced behaviors and analyzed the individual resulting motor components. Using these assays, his laboratory established technology that monitors neuronal activity throughout the fish brain in an awake and intact preparation. An extended goal is the study of how changes or variations in the behavior are reflected in changes in the underlying neuronal activity.
+| **Affiliation** | [Harvard University](https://www.engertlab.org) |
+| **Biography** | Florian Engert received his Ph.D. in physics from Ludwig Maximilian University of Munich 1997. He spent the following two years as a postdoctoral fellow at the Max Planck Institute for Neurobiology in Munich, followed by two more years as a postdoc, first at the University of California. San Diego, and then at the University of California, Berkeley. In 2002, he accepted a position as assistant professor at Harvard University, where he received tenure and was promoted to full professor in 2009. The general goal of his laboratory at present and in the intermediate future is the development of the larval zebrafish as a model system for the comprehensive identification and examination of neural circuits controlling visually induced behaviors. To that end, he established and quantified a series of visually induced behaviors and analyzed the individual resulting motor components. Using these assays, his laboratory established technology that monitors neuronal activity throughout the fish brain in an awake and intact preparation. An extended goal is the study of how changes or variations in the behavior are reflected in changes in the underlying neuronal activity.
 
 ## Yoshua Bengio
 
 | <img src="https://awards.acm.org/binaries/content/gallery/acm/awards/photo/a-b/bengio_3406375" alt="Yoshua Bengio" height="250px" /> |
 
 | **Affiliation** | [Mila – Quebec AI Institute](https://yoshuabengio.org/) |
-| **Biography** | Recognized worldwide as one of the leading experts in artificial intelligence, Yoshua Bengio is most known for his pioneering work in deep learning, earning him the 2018 A.M. Turing Award, “the Nobel Prize of Computing,” with Geoffrey Hinton and Yann LeCun.
-He is a Full Professor at Université de Montréal, and the Founder and Scientific Director of Mila – Quebec AI Institute. He co-directs the CIFAR Learning in Machines & Brains program as Senior Fellow and acts as Scientific Director of IVADO.
+| **Biography** | Recognized worldwide as one of the leading experts in artificial intelligence, Yoshua Bengio is most known for his pioneering work in deep learning, earning him the 2018 A.M. Turing Award, “the Nobel Prize of Computing,” with Geoffrey Hinton and Yann LeCun. He is a Full Professor at Université de Montréal, and the Founder and Scientific Director of Mila – Quebec AI Institute. He co-directs the CIFAR Learning in Machines & Brains program as Senior Fellow and acts as Scientific Director of IVADO.
 
 ## Terry Sejnowski
 
 | <img src="https://www.salk.edu/wp-content/uploads/2015/10/Sejnowski-Web.jpg" alt="Terry Sejnowski" height="250px" /> |
 
 | **Affiliation** | [Salk Institute for Biological Studies](salk.edu/scientist/terrence-sejnowski/) |
-| **Biography** | Terrence Joseph Sejnowski is the Francis Crick Professor at the Salk Institute for Biological Studies where he directs the Computational Neurobiology Laboratory and is the director of the Crick-Jacobs center for theoretical and computational biology. His research in neural networks and computational neuroscience has been pioneering. 
-Sejnowski is also Professor of Biological Sciences and adjunct professor in the departments of neurosciences, psychology, cognitive science, computer science and engineering at the University of California, San Diego, where he is co-director of the Institute for Neural Computation.
+| **Biography** | Terrence Joseph Sejnowski is the Francis Crick Professor at the Salk Institute for Biological Studies where he directs the Computational Neurobiology Laboratory and is the director of the Crick-Jacobs center for theoretical and computational biology. His research in neural networks and computational neuroscience has been pioneering. Sejnowski is also Professor of Biological Sciences and adjunct professor in the departments of neurosciences, psychology, cognitive science, computer science and engineering at the University of California, San Diego, where he is co-director of the Institute for Neural Computation.
 
 ## Anima Anandkumar
 
