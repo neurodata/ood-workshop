@@ -13,7 +13,7 @@ Out-of-distribution (OOD) generalization and adaptation is a key challenge the f
 
 <br />
 <p style='text-align: justify;'>
-It is natural, therefore, to wonder (i) what properties of natural intelligence enable OOD learning (for example, is a cortex required, can human organoids achieve OOD capabilities, etc.), and (ii) what research programs can most effectively identify and extract those properties to inform future ML solutions? Although many workshops have focused on aspects of (i), it is through the additional focus of (ii) that this workshop will best foster collaborations and research to advance the capabilities of ML. </pp>
+It is natural, therefore, to wonder (i) what properties of natural intelligence enable OOD learning (for example, is a cortex required, can human organoids achieve OOD capabilities, etc.), and (ii) what research programs can most effectively identify and extract those properties to inform future ML solutions? Although many workshops have focused on aspects of (i), it is through the additional focus of (ii) that this workshop will best foster collaborations and research to advance the capabilities of ML. </p>
 
 <br />
 <p style='text-align: justify;'>
