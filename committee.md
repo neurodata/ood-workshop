@@ -12,7 +12,7 @@ All of the organizers will be on the program committee, as well as the following
 <br />
 
 |<img src="https://soeadm.ucsd.edu/faculty/faculty_bios/photos/217.jpg" alt="Gabriel A. Silva" width="250"/>|<img src="https://neurodata.io/static/images/people/kaleab_alem.jpg" alt="Kaleab A. Kinfu" width="250"/>|<img src="https://directory.seas.upenn.edu/wp-content/uploads/2020/03/kording-konrad.jpg" alt="Konrad Kording" width="250"/>|
-|[Gabriel A. Silva](http://www.silva.ucsd.edu/)<br />University of California San Diego|[Kaleab A. Kinfu](http://www.kaleabalemayehu.com/)<br />Johns Hopkins University|[Konrad Kording](http://koerding.com/)<br />U Penn|
+|[Gabriel A. Silva](http://www.silva.ucsd.edu/)<br />University of California, San Diego|[Kaleab A. Kinfu](http://www.kaleabalemayehu.com/)<br />Johns Hopkins University|[Konrad Kording](http://koerding.com/)<br />University of Pennsylvania|
 
 <br />
 
