@@ -16,7 +16,7 @@ We are delighted to feature the following awesome speakers organized into six pa
 - Curiosity: 
     - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn)
 - Constraints: 
-    - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Kwabena Boahen (AI)](#kwabena-boahen), [Florian Engert (NI)](#florian-engert)
+    - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert)
 - Conclusion: 
     - [Yoshua Bengio (AI)](#yoshua-bengio), [Terry Sejnowski (NI)](#terry-sejnowski), [Anima Anandkumar (AI)](#anima-anandkumar)
 
@@ -110,14 +110,6 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 | **Affiliation** | [University of California, San Diego](https://medschool.ucsd.edu/som/pediatrics/research/labs/muotri-lab/Pages/default.aspx) |
 | **Biography** | Alysson R. Muotri, a professor in the Departments of Pediatrics and Cellular & Molecular Medicine at the University of California, San Diego, is focusing his research on solving one of life's greatest mysteries: What is it that makes us uniquely human? Research tells us that one of the most influential characteristics of modern humans is our sophisticated brains, and all of the abilities that its complexity grants us.
-
-## Kwabena Boahen
-
-| <img src="https://engineering.stanford.edu/sites/default/files/styles/square_370_x_370/public/boahen-766px-766px.jpg" alt="Kwabena Boahen" height="250px" /> |
-
-| **Affiliation** | [Stanford University](https://web.stanford.edu/group/brainsinsilicon/boahen.html) |
-| **Biography** | Kwabena Adu Boahen is a Professor of Bioengineering and Electrical Engineering at Stanford University. Boahen is widely regarded as one of the pioneers of neuromorphic engineering. In contrast to the field of artificial intelligence, which merely takes inspiration from the brain, neuromorphic engineers seek to develop a new computing paradigm based on the brain's organizing principles. 
-
 
 ## Florian Engert
 
