@@ -16,7 +16,7 @@ We are delighted to feature the following awesome speakers organized into six pa
 - Curiosity: 
     - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn)
 - Constraints: 
-    - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert)
+    - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings](#ralph-etienne-cummings)
 - Conclusion: 
     - [Yoshua Bengio (AI)](#yoshua-bengio), [Terry Sejnowski (NI)](#terry-sejnowski), [Anima Anandkumar (AI)](#anima-anandkumar)
 
@@ -117,6 +117,14 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 | **Affiliation** | [Harvard University](https://www.engertlab.org) |
 | **Biography** | Florian Engert received his Ph.D. in physics from Ludwig Maximilian University of Munich 1997. He spent the following two years as a postdoctoral fellow at the Max Planck Institute for Neurobiology in Munich, followed by two more years as a postdoc, first at the University of California. San Diego, and then at the University of California, Berkeley. In 2002, he accepted a position as assistant professor at Harvard University, where he received tenure and was promoted to full professor in 2009. The general goal of his laboratory at present and in the intermediate future is the development of the larval zebrafish as a model system for the comprehensive identification and examination of neural circuits controlling visually induced behaviors. To that end, he established and quantified a series of visually induced behaviors and analyzed the individual resulting motor components. Using these assays, his laboratory established technology that monitors neuronal activity throughout the fish brain in an awake and intact preparation. An extended goal is the study of how changes or variations in the behavior are reflected in changes in the underlying neuronal activity.
+
+## Ralph Etienne-Cumming
+
+| <img src="https://engineering.jhu.edu/ece/wp-content/uploads/2014/06/21.jpg" alt="Ralph Etienne-Cumming" height="250px" /> |
+
+| **Affiliation** | [Johns Hopkins University](https://engineering.jhu.edu/ece/faculty/etienne-cummings-ralph/) |
+| **Biography** | Ralph Etienne-Cummings received his B.Sc. in physics in 1988 from Lincoln University, Pennsylvania. He completed his M.S.E.E (’91) and PhD (’94) in electrical engineering at the University of Pennsylvania. Currently, Dr. Etienne-Cummings is a Professor and Chairman of Department of Electrical and Computer Engineering at Johns Hopkins University. He was the founding director of the Institute of Neuromorphic Engineering. He has served as Chairman of various IEEE Circuits and Systems (CAS) Technical Committees and was elected as a member of CAS Board of Governors. He also serves on numerous editorial boards and was recently appointed Deputy Editor in Chief for the IEEE Transactions on Biomedical Circuits and Systems. He is an IEEE Fellow and the recipient of the NSF’s Career and Office of Naval Research Young Investigator Program Award. He was a Visiting African Fellow at U. Cape Town, Fulbright Fellowship Grantee, Eminent Visiting Scholar at U. Western Sydney and has also won numerous publication awards, most recently the 2012 Most Outstanding Paper of the IEEE Transaction on Neural Systems and Rehabilitation Engineering. He was also recently recognized as a ScienceMaker by the HistoryMakers, an African-American history archive. He has published over 220 peer reviewed article, 11 books/chapters and holds 10 patents/applications on his work.
+
 
 ## Yoshua Bengio
 
