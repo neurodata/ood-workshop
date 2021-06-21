@@ -16,7 +16,7 @@ We are delighted to feature the following awesome speakers organized into six pa
 - Curiosity: 
     - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn)
 - Constraints: 
-    - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings](#ralph-etienne-cummings)
+    - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings (AI)](#ralph-etienne-cummings)
 - Conclusion: 
     - [Yoshua Bengio (AI)](#yoshua-bengio), [Terry Sejnowski (NI)](#terry-sejnowski), [Anima Anandkumar (AI)](#anima-anandkumar)
 
@@ -118,7 +118,7 @@ We are delighted to feature the following awesome speakers organized into six pa
 | **Affiliation** | [Harvard University](https://www.engertlab.org) |
 | **Biography** | Florian Engert received his Ph.D. in physics from Ludwig Maximilian University of Munich 1997. He spent the following two years as a postdoctoral fellow at the Max Planck Institute for Neurobiology in Munich, followed by two more years as a postdoc, first at the University of California. San Diego, and then at the University of California, Berkeley. In 2002, he accepted a position as assistant professor at Harvard University, where he received tenure and was promoted to full professor in 2009. The general goal of his laboratory at present and in the intermediate future is the development of the larval zebrafish as a model system for the comprehensive identification and examination of neural circuits controlling visually induced behaviors. To that end, he established and quantified a series of visually induced behaviors and analyzed the individual resulting motor components. Using these assays, his laboratory established technology that monitors neuronal activity throughout the fish brain in an awake and intact preparation. An extended goal is the study of how changes or variations in the behavior are reflected in changes in the underlying neuronal activity.
 
-## Ralph Etienne-Cumming
+## Ralph Etienne-Cummings
 
 | <img src="https://engineering.jhu.edu/ece/wp-content/uploads/2014/06/21.jpg" alt="Ralph Etienne-Cumming" height="250px" /> |
 
