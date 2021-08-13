@@ -12,6 +12,7 @@ navigation:
   Schedule: "schedule"
   Programme Committee: "committee"
   FAQ: "faq"
+  Submit a Question: "question"
 
 markdown: kramdown
 
