@@ -70,7 +70,7 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 ## Brenden Lake
 
-| <img src="https://cims.nyu.edu/~brenden/brenden.jpg" alt="Brenden Lake" height="250px" /> |
+| <img src="https://cims.nyu.edu/~brenden/assets/img/brenden.jpg" alt="Brenden Lake" height="250px" /> |
 
 | **Affiliation** | [New York University / Facebook AI Research](https://cims.nyu.edu/~brenden/) |
 | **Biography** | Brenden is an Assistant Professor of Psychology and Data Science at New York University, and a Research Scientist at Facebook AI Research. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017. Brenden’s research focuses on computational problems that are easier for people than they are for machines, such as learning new concepts, compositional generalization, and question asking.
