@@ -4,7 +4,7 @@ layout: default
 
 # Organizers
 
-|<img src="https://www.bme.jhu.edu/wp-content/uploads/2019/10/Josh-Vogelstein.jpg" alt="Joshua T. Vogelstein" width="250"/>|<img src="https://www.microsoft.com/en-us/research/uploads/prod/2021/03/img.jpg" alt="Weiwei Yang" width="250"/>|<img src="https://engineering.jhu.edu/ams/wp-content/uploads/2020/09/cropped-soledad-2-1024x893.jpg" alt="Soledad Villar" width="286"/>|
+|<img src="https://www.bme.jhu.edu/wp-content/uploads/2019/10/Josh-Vogelstein.jpg" alt="Joshua T. Vogelstein" width="250"/>|<img src="https://www.microsoft.com/en-us/research/uploads/prod/2021/03/img.jpg" alt="Weiwei Yang" width="250"/>|<img src="https://www.ams.jhu.edu/villar/wp-content/uploads/2020/09/cropped-soledad-2.jpg" alt="Soledad Villar" width="286"/>|
 |[Joshua T. Vogelstein](http://jovo.me/)<br />Johns Hopkins University|[Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)<br />Microsoft|[Soledad Villar](https://www.ams.jhu.edu/villar/)<br />Johns Hopkins University|
 
 <br />
