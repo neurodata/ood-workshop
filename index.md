@@ -7,7 +7,7 @@ layout: default
 | **Date** | Tuesday, December 14, 2021 |
 | **Location** | The workshop will be held *virtually*. |
 
-[Submit your questions for our panel session here.](ood-workshop/question)
+[Submit your questions for our panel session here.](./question)
 
 # Background
 <p style='text-align: justify;'>
