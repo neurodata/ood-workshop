@@ -8,4 +8,4 @@ layout: default
 Yes. Registration to the main conference includes all workshops. Pricing information can be found [here](https://nips.cc/Conferences/2021/Pricing2). 
 
 ### Will there be any paper presentations?
-We decided not to include any paper sessions for this workshop due to the virtual nature of this workshop.
+No. We decided not to include any paper sessions for this workshop due to the virtual nature of this workshop.
