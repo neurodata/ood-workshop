@@ -4,7 +4,7 @@ layout: default
 
 # Overview
 
-| **Date** | Monday, December 13 / Tuesday, December 14, 2021 |
+| **Date** | Tuesday, December 14, 2021 |
 | **Location** | The workshop will be held *virtually*. |
 
 # Background
