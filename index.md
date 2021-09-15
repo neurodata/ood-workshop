@@ -7,6 +7,8 @@ layout: default
 | **Date** | Tuesday, December 14, 2021 |
 | **Location** | The workshop will be held *virtually*. |
 
+**We decided not to include any paper sessions for this workshop due to the virtual nature of this workshop.**
+
 [Submit your questions for our panel session here.](./question)
 
 # Background
