@@ -8,7 +8,7 @@ This is the preliminary schedule of the workshop. All slots are provided in Paci
 
 |  **Time (PST)**    | **Event**                   |
 |  <span style="font-family: monospace;">05:00 AM - </span> | <b>Intro</b> (short intro)                |
-|  <span style="font-family: monospace;"> </span> | <b>Natural Intelligence and Artificial Intelligence (discussion panel)</b> |
+|  <span style="font-family: monospace;"> </span> | <b>Natural Intelligence and Artificial Intelligence</b> (discussion panel) |
 |  <span style="font-family: monospace;"> </span> | <b>Continual</b> (discussion panel)                 |
 |  <span style="font-family: monospace;"> </span> | <b>Compositional</b>  (discussion panel)            |
 |  <span style="font-family: monospace;"> </span> | <b>Casual</b>   (discussion panel)                  |
