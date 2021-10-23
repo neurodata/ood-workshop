@@ -4,7 +4,7 @@ layout: default
 
 # Schedule
 
-This is the preliminary schedule of the workshop. All slots are provided in Pacific Standard Time (PST) using a 12h format. Use [this time zone converter](https://www.thetimezoneconverter.com) to convert these times to your local time zone.
+This is the primary schedule of the workshop. All slots are provided in Pacific Standard Time (PST) using a 12h format. Use [this time zone converter](https://www.thetimezoneconverter.com) to convert these times to your local time zone.
 
 |  **Time (PST)**    | **Event**                   |
 |  <span style="font-family: monospace;">05:00 AM - </span> | <b>Intro</b> (short intro)                |
