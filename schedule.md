@@ -6,7 +6,7 @@ layout: default
 
 This is the primary schedule of the workshop. All slots are provided in Pacific Standard Time (PST) using a 12h format. Use [this time zone converter](https://www.thetimezoneconverter.com) to convert these times to your local time zone.
 
-|  ***Time (PST)***    | ***Event***                  |
+|  <b style="font-variant: small-caps;">Time (PST)</b>    | <b style="font-variant: small-caps;">Event</b>                  |
 |  <span style="font-family: monospace;">05:00 AM - </span> | <b>Intro</b> (short intro)                |
 |  <span style="font-family: monospace;"> </span> | <b>Natural Intelligence and Artificial Intelligence</b> (discussion panel) |
 |  <span style="font-family: monospace;"> </span> | <b>Continual</b> (discussion panel)                 |
