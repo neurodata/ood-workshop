@@ -17,8 +17,12 @@ We are delighted to feature the following awesome speakers organized into six pa
     - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn)
 - Constraints: 
     - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings (AI)](#ralph-etienne-cummings)
-- Conclusion: 
-    - [Yoshua Bengio (AI)](#yoshua-bengio), [Terry Sejnowski (NI)](#terry-sejnowski), [Anima Anandkumar (AI)](#anima-anandkumar)
+- General Discussion 1: 
+    - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
+    - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
+- General Discussion 2: 
+    - [Yoshua Bengio (AI)](#yoshua-bengio), [Karin Strauss (AI)](#karin-strauss)
+    - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
 
 ## Jane Wang
 
@@ -125,13 +129,19 @@ We are delighted to feature the following awesome speakers organized into six pa
 | **Affiliation** | [Johns Hopkins University](https://engineering.jhu.edu/ece/faculty/etienne-cummings-ralph/) |
 | **Biography** | Ralph Etienne-Cummings received his B.Sc. in physics in 1988 from Lincoln University, Pennsylvania. He completed his M.S.E.E (’91) and PhD (’94) in electrical engineering at the University of Pennsylvania. Currently, Dr. Etienne-Cummings is a Professor and Chairman of Department of Electrical and Computer Engineering at Johns Hopkins University. He was the founding director of the Institute of Neuromorphic Engineering. He has served as Chairman of various IEEE Circuits and Systems (CAS) Technical Committees and was elected as a member of CAS Board of Governors. He also serves on numerous editorial boards and was recently appointed Deputy Editor in Chief for the IEEE Transactions on Biomedical Circuits and Systems. He is an IEEE Fellow and the recipient of the NSF’s Career and Office of Naval Research Young Investigator Program Award. He was a Visiting African Fellow at U. Cape Town, Fulbright Fellowship Grantee, Eminent Visiting Scholar at U. Western Sydney and has also won numerous publication awards, most recently the 2012 Most Outstanding Paper of the IEEE Transaction on Neural Systems and Rehabilitation Engineering. He was also recently recognized as a ScienceMaker by the HistoryMakers, an African-American history archive. He has published over 220 peer reviewed article, 11 books/chapters and holds 10 patents/applications on his work.
 
+## Anima Anandkumar
 
-## Yoshua Bengio
+| <img src="https://blogs.nvidia.com/wp-content/uploads/2019/12/Anima-Anandkumar-200x200.jpg" alt="Anima Anandkumar" height="250px" /> |
 
-| <img src="https://awards.acm.org/binaries/content/gallery/acm/awards/photo/a-b/bengio_3406375" alt="Yoshua Bengio" height="250px" /> |
+| **Affiliation** | [Caltech / NVIDIA](salk.edu/scientist/terrence-sejnowski/) |
+| **Biography** | Anima Anandkumar holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At NVIDIA, she is leading the research group that develops next-generation AI algorithms. At Caltech, she is the co-director of Dolcit and co-leads the AI4science initiative.
 
-| **Affiliation** | [Mila – Quebec AI Institute](https://yoshuabengio.org/) |
-| **Biography** | Recognized worldwide as one of the leading experts in artificial intelligence, Yoshua Bengio is most known for his pioneering work in deep learning, earning him the 2018 A.M. Turing Award, “the Nobel Prize of Computing,” with Geoffrey Hinton and Yann LeCun. He is a Full Professor at Université de Montréal, and the Founder and Scientific Director of Mila – Quebec AI Institute. He co-directs the CIFAR Learning in Machines & Brains program as Senior Fellow and acts as Scientific Director of IVADO.
+## Chris White
+
+| <img src="https://www.microsoft.com/en-us/research/uploads/prod/2020/12/chwh_headshot-2.jpg" alt="Chris White" height="250px" /> |
+
+| **Affiliation** | [Microsoft](https://www.microsoft.com/en-us/research/people/chwh/) |
+| **Biography** | Chris White is Managing Director, Special Projects. He leads mission-oriented research and software development teams focusing on high risk problems. Chris has a background in EE, with a PhD in machine learning for speech and language from Johns Hopkins. He was a Fellow at Harvard for graph statistics and machine learning before spending time in the field. He served as chief data officer for DARPA in Afghanistan, and then as country lead with oversight of all battlefield research programs. Upon return, his DARPA programs invested hundreds of millions of dollars into open source software. His work has been applied to countering human trafficking, financial fraud, and terrorism, and has received awards from the White House, Defense, and Treasury departments. In 2016 President Obama awarded him a Presidential Medal for Extraordinary Efforts to Combat Trafficking in Persons. Since coming to Microsoft Research, he’s worked in Special Projects helping build multiple disruptive technologies before becoming Managing Director.
 
 ## Terry Sejnowski
 
@@ -140,9 +150,16 @@ We are delighted to feature the following awesome speakers organized into six pa
 | **Affiliation** | [Salk Institute for Biological Studies](salk.edu/scientist/terrence-sejnowski/) |
 | **Biography** | Terrence Joseph Sejnowski is the Francis Crick Professor at the Salk Institute for Biological Studies where he directs the Computational Neurobiology Laboratory and is the director of the Crick-Jacobs center for theoretical and computational biology. His research in neural networks and computational neuroscience has been pioneering. Sejnowski is also Professor of Biological Sciences and adjunct professor in the departments of neurosciences, psychology, cognitive science, computer science and engineering at the University of California, San Diego, where he is co-director of the Institute for Neural Computation.
 
-## Anima Anandkumar
+## Yoshua Bengio
 
-| <img src="https://blogs.nvidia.com/wp-content/uploads/2019/12/Anima-Anandkumar-200x200.jpg" alt="Anima Anandkumar" height="250px" /> |
+| <img src="https://awards.acm.org/binaries/content/gallery/acm/awards/photo/a-b/bengio_3406375" alt="Yoshua Bengio" height="250px" /> |
 
-| **Affiliation** | [Caltech / NVIDIA](salk.edu/scientist/terrence-sejnowski/) |
-| **Biography** | Anima Anandkumar holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At NVIDIA, she is leading the research group that develops next-generation AI algorithms. At Caltech, she is the co-director of Dolcit and co-leads the AI4science initiative.
+| **Affiliation** | [Mila – Quebec AI Institute](https://yoshuabengio.org/) |
+| **Biography** | Recognized worldwide as one of the leading experts in artificial intelligence, Yoshua Bengio is most known for his pioneering work in deep learning, earning him the 2018 A.M. Turing Award, “the Nobel Prize of Computing,” with Geoffrey Hinton and Yann LeCun. He is a Full Professor at Université de Montréal, and the Founder and Scientific Director of Mila – Quebec AI Institute. He co-directs the CIFAR Learning in Machines & Brains program as Senior Fellow and acts as Scientific Director of IVADO.
+
+## Karin Strauss
+
+| <img src="https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Karin_Strauss_360x360.jpg" height="250px" /> |
+
+| **Affiliation** | [Microsoft](https://www.microsoft.com/en-us/research/people/kstrauss/) |
+| **Biography** | Karin is a Senior Principal Research Manager at Microsoft. She is also an Affiliate Professor at the School of Computer Science and Engineering at University of Washington. Her research lies at the intersection of the sciences, computer systems, and environmental sustainability. She investigate alternative approaches to continue the improvement we have been seeing in computer systems over the last few decades, while having environmental sustainability as a top priority. Approaches she has been studying include hardware accelerators for machine learning, emerging memory technologies, and the use of biology, chemistry, and material sciences to the benefit of the IT industry.
