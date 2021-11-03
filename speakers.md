@@ -9,7 +9,7 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 - Continual: 
     - [Jane Wang (NI)](#jane-wang), [Irina Rish (AI)](#irina-rish), [Eric Traut (AI)](#eric-traut)
-- Casual: 
+- Causal: 
     - [Josh Tenenbaum (NI)](#josh-tenenbaum), [Bernhard Schölkopf (AI)](#bernhard-schölkopf), [Susan Athey (AI)](#susan-athey)
 - Compositional: 
     - [Brenden Lake (NI)](#brenden-lake), <!-- [Charles Isbell (AI)](#charles-isbell) -->
