@@ -8,20 +8,25 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 
 - Continual: 
-    - [Jane Wang (NI)](#jane-wang), [Irina Rish (AI)](#irina-rish), [Eric Traut (AI)](#eric-traut)
+    - [Jane Wang (NI)](#jane-wang), [Eric Traut (AI)](#eric-traut)
+    - Moderators: [Weiwei Yang](https://www.microsoft.com/en-us/research/, [Sujeeth Bharadwaj](https://www.microsoft.com/en-us/research/people/sujbhara/)
 - Causal: 
     - [Josh Tenenbaum (NI)](#josh-tenenbaum), [Bernhard Schölkopf (AI)](#bernhard-schölkopf), [Susan Athey (AI)](#susan-athey)
+    - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
 - Compositional: 
     - [Brenden Lake (NI)](#brenden-lake), <!-- [Charles Isbell (AI)](#charles-isbell) -->
+    - Moderator: [Zenna Tavares](http://www.zenna.org/)
 - Curiosity: 
     - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn)
+    - Moderator: [Jonathan Flowers](https://www.american.edu/cas/faculty/jflowers.cfm) 
 - Constraints: 
     - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings (AI)](#ralph-etienne-cummings)
+    - Moderator: [Soledad Villar](https://www.ams.jhu.edu/villar/)
 - General Discussion 1: 
     - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
 - General Discussion 2: 
-    - [Yoshua Bengio (AI)](#yoshua-bengio), [Karin Strauss (AI)](#karin-strauss)
+    - [Yoshua Bengio (AI)](#yoshua-bengio)
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
 
 ## Jane Wang
@@ -30,14 +35,6 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 | **Affiliation** | [DeepMind](http://www.janexwang.com/) |
 | **Biography** | Jane Wang is a research scientist at DeepMind on the neuroscience team, working on meta-reinforcement learning and neuroscience-inspired artificial agents. Her background is in physics, complex systems, and computational and cognitive neuroscience.
-
-
-## Irina Rish
-
-| <img src="https://mila.quebec/wp-content/uploads/2019/10/irina-rish.jpg" alt="Irina Rish" height="250px" /> |
-
-| **Affiliation** | [Mila – Quebec AI Institute](https://mila.quebec/en/person/irina-rish/) |
-| **Biography** | Irina Rish is an Associate Professor in the Computer Science and Operations Research department at the Université de Montréal (UdeM) and a core member of Mila – Quebec AI Institute. She holds the Canada CIFAR AI Chair and the Canadian Excellence Research Chair in Autonomous AI. She holds MSc and PhD in AI from University of California, Irvine and MSc in Applied Mathematics from Moscow Gubkin Institute. Dr. Rish’s research focus is on machine learning, neural data analysis and neuroscience-inspired AI.
 
 
 ## Eric Traut
