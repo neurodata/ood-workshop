@@ -9,7 +9,7 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 - Continual: 
     - [Jane Wang (NI)](#jane-wang), [Eric Traut (AI)](#eric-traut)
-    - Moderators: [Weiwei Yang](https://www.microsoft.com/en-us/research/, [Sujeeth Bharadwaj](https://www.microsoft.com/en-us/research/people/sujbhara/)
+    - Moderators: [Weiwei Yang](https://www.microsoft.com/en-us/research/), [Sujeeth Bharadwaj](https://www.microsoft.com/en-us/research/people/sujbhara/)
 - Causal: 
     - [Josh Tenenbaum (NI)](#josh-tenenbaum), [Bernhard Schölkopf (AI)](#bernhard-schölkopf), [Susan Athey (AI)](#susan-athey)
     - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
@@ -121,7 +121,7 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 ## Ralph Etienne-Cummings
 
-| <img src="https://engineering.jhu.edu/ece/wp-content/uploads/2014/06/21.jpg" alt="Ralph Etienne-Cumming" height="250px" /> |
+| <img src="https://ece.fiu.edu/_assets/images/ralph-etienne-cummings.jpg" alt="Ralph Etienne-Cumming" height="250px" /> |
 
 | **Affiliation** | [Johns Hopkins University](https://engineering.jhu.edu/ece/faculty/etienne-cummings-ralph/) |
 | **Biography** | Ralph Etienne-Cummings received his B.Sc. in physics in 1988 from Lincoln University, Pennsylvania. He completed his M.S.E.E (’91) and PhD (’94) in electrical engineering at the University of Pennsylvania. Currently, Dr. Etienne-Cummings is a Professor and Chairman of Department of Electrical and Computer Engineering at Johns Hopkins University. He was the founding director of the Institute of Neuromorphic Engineering. He has served as Chairman of various IEEE Circuits and Systems (CAS) Technical Committees and was elected as a member of CAS Board of Governors. He also serves on numerous editorial boards and was recently appointed Deputy Editor in Chief for the IEEE Transactions on Biomedical Circuits and Systems. He is an IEEE Fellow and the recipient of the NSF’s Career and Office of Naval Research Young Investigator Program Award. He was a Visiting African Fellow at U. Cape Town, Fulbright Fellowship Grantee, Eminent Visiting Scholar at U. Western Sydney and has also won numerous publication awards, most recently the 2012 Most Outstanding Paper of the IEEE Transaction on Neural Systems and Rehabilitation Engineering. He was also recently recognized as a ScienceMaker by the HistoryMakers, an African-American history archive. He has published over 220 peer reviewed article, 11 books/chapters and holds 10 patents/applications on his work.
