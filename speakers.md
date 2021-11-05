@@ -153,10 +153,3 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 | **Affiliation** | [Mila – Quebec AI Institute](https://yoshuabengio.org/) |
 | **Biography** | Recognized worldwide as one of the leading experts in artificial intelligence, Yoshua Bengio is most known for his pioneering work in deep learning, earning him the 2018 A.M. Turing Award, “the Nobel Prize of Computing,” with Geoffrey Hinton and Yann LeCun. He is a Full Professor at Université de Montréal, and the Founder and Scientific Director of Mila – Quebec AI Institute. He co-directs the CIFAR Learning in Machines & Brains program as Senior Fellow and acts as Scientific Director of IVADO.
-
-## Karin Strauss
-
-| <img src="https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Karin_Strauss_360x360.jpg" height="250px" /> |
-
-| **Affiliation** | [Microsoft](https://www.microsoft.com/en-us/research/people/kstrauss/) |
-| **Biography** | Karin is a Senior Principal Research Manager at Microsoft. She is also an Affiliate Professor at the School of Computer Science and Engineering at University of Washington. Her research lies at the intersection of the sciences, computer systems, and environmental sustainability. She investigate alternative approaches to continue the improvement we have been seeing in computer systems over the last few decades, while having environmental sustainability as a top priority. Approaches she has been studying include hardware accelerators for machine learning, emerging memory technologies, and the use of biology, chemistry, and material sciences to the benefit of the IT industry.
