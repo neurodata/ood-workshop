@@ -26,7 +26,7 @@ We are delighted to feature the following awesome speakers organized into six pa
     - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
 - General Discussion 2: 
-    - [Yoshua Bengio (AI)](#yoshua-bengio), [Max Welling](#max-welling), [Leyla Lsik](#leyla-lsik)
+    - [Yoshua Bengio (AI)](#yoshua-bengio), [Max Welling](#max-welling), [Leyla Isik](#leyla-isik)
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
 
 ## Jane Wang
@@ -177,7 +177,7 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 ## Leyla Isik
 
-| <img src="https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Max-Welling_0633-LR-small.jpg" alt="Leyla Isik" height="250px" /> |
+| <img src="https://krieger.jhu.edu/cogsci/wp-content/uploads/sites/70/2018/05/Isik_headshot_crop.jpg" alt="Leyla Isik" height="250px" /> |
 
 | **Affiliation** | [Johns Hopkins University](https://cogsci.jhu.edu/directory/leyla-isik/) |
 | **Biography** | Leyla is the Clare Boothe Luce Assistant Professor of Cognitive Science at Johns Hopkins University, and holds a secondary appointment in the department of Biomedical Engineering. Before joining JHU, Leyla was a postdoc at MIT and Harvard in the Center for Brains, Minds, and Machines, where she worked with Nancy Kanwisher and Gabriel Kreiman. She received her PhD from MIT where she was advised by Tomaso Poggio, and was an undergraduate right here at JHU. 
