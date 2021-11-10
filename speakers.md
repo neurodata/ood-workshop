@@ -8,8 +8,8 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 
 - Continual: 
-    - [Jane Wang (NI)](#jane-wang), [Eric Traut (AI)](#eric-traut)
-    - Moderators: [Weiwei Yang](https://www.microsoft.com/en-us/research/), [Sujeeth Bharadwaj](https://www.microsoft.com/en-us/research/people/sujbhara/)
+    - [Jane Wang (NI)](#jane-wang), [Eric Traut (AI)](#eric-traut), [Sujeeth Bharadwaj (AI)](#sujeeth-bharadwaj), [Gabriel A Sliva (NI)](#gabriel-sliva)
+    - Moderators: [Weiwei Yang](https://www.microsoft.com/en-us/research/)
 - Causal: 
     - [Josh Tenenbaum (NI)](#josh-tenenbaum), [Bernhard Schölkopf (AI)](#bernhard-schölkopf), [Susan Athey (AI)](#susan-athey)
     - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
@@ -26,7 +26,7 @@ We are delighted to feature the following awesome speakers organized into six pa
     - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
 - General Discussion 2: 
-    - [Yoshua Bengio (AI)](#yoshua-bengio)
+    - [Yoshua Bengio (AI)](#yoshua-bengio), [Max Welling](#max-welling), [Leyla Lsik](#leyla-lsik)
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
 
 ## Jane Wang
@@ -43,6 +43,20 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 | **Affiliation** | [Microsoft](https://microsoft.fandom.com/wiki/Eric_Traut) |
 | **Biography** | Eric Traut is an American software engineer and software emulation pioneer. Traut graduated from Stanford University in 1992. From 1993 to 1995 he worked for Apple Computer, creating a Mac 68K emulator to be used in PowerPC-based Macintoshes.His work on this project led to a patent on a form of dynamic recompilation. Traut went on to join Connectix, where he developed successful commercial emulators such as Virtual PC and Virtual Game Station. He became Connectix's Chief Technical Officer in 2001. Traut became a Microsoft employee after the company purchased Connectix in 2003. Traut left Microsoft in late 2012. Traut rejoined Microsoft in May 2014 and is now a Technical Fellow.
+
+## Sujeeth Bharadwaj
+
+| <img src="https://www.microsoft.com/en-us/research/uploads/prod/2021/09/sujeeth_profile-scaled.jpg" alt="Sujeeth Bharadwaj" height="250px" /> |
+
+| **Affiliation** | [Microsoft](https://www.microsoft.com/en-us/research/people/sujbhara/) |
+| **Biography** | Sujeeth Bharadwaj leads machine learning research and development in resource-optimized deep learning, computer vision, and NLP. He is especially passionate about healthcare/medical imaging applications where efficient algorithms are critical – given gigabyte-sized input data (e.g. 3D CT/MRI) and growing model complexity. Most recently, he developed SONIC (small, optimized network using independent computations, with fewer than 4.3M parameters) to detect chest infections from x-rays. He was featured in Intelligent Health’s Top-50 Innovators 2020 for this work.
+
+## Gabriel Sliva
+
+| <img src="https://soeadm.ucsd.edu/faculty/faculty_bios/photos/217.jpg" alt="Gabriel A Sliva" height="250px" /> |
+
+| **Affiliation** | [University of California, San Diego](http://www.silva.ucsd.edu/) |
+| **Biography** | Dr. Gabriel A. Silva is a Professor in the Department of Bioengineering and the Department of Neurosciences at the University of California San Diego. He holds a Jacobs Family Scholar in Engineering Endowed Chair, is the Founding Director of the Center for Engineered Natural Intelligence, and Associate Director of the Kavli Institute for Brain and Mind. He is an affiliated faculty member in the Department of NanoEngineering, and a faculty member in the BioCircuits Institute, the Neurosciences Graduate Program, Computational Neurobiology Program, and Institute for Neural Computation. Previously, Silva served as Vice Chair of the Department of Bioengineering, and was Co-Director of the Retinal Engineering Center in the Institute of Engineering in Medicine. As an Associate Professor he held the Jacobs Faculty Fellows Professor of Bioengineering. 
 
 
 ## Josh Tenenbaum
@@ -153,3 +167,17 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 | **Affiliation** | [Mila – Quebec AI Institute](https://yoshuabengio.org/) |
 | **Biography** | Recognized worldwide as one of the leading experts in artificial intelligence, Yoshua Bengio is most known for his pioneering work in deep learning, earning him the 2018 A.M. Turing Award, “the Nobel Prize of Computing,” with Geoffrey Hinton and Yann LeCun. He is a Full Professor at Université de Montréal, and the Founder and Scientific Director of Mila – Quebec AI Institute. He co-directs the CIFAR Learning in Machines & Brains program as Senior Fellow and acts as Scientific Director of IVADO.
+
+## Max Welling
+
+| <img src="https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Max-Welling_0633-LR-small.jpg" alt="Max Welling" height="250px" /> |
+
+| **Affiliation** | [University of Amsterdam, Microsoft Research](https://staff.fnwi.uva.nl/m.welling/) |
+| **Biography** | Prof. Dr. Max Welling is a research chair in Machine Learning at the University of Amsterdam and a Distinguished Scientist at MSR. He is a fellow at the Canadian Institute for Advanced Research (CIFAR) and the European Lab for Learning and Intelligent Systems (ELLIS) where he also serves on the founding board. His previous appointments include VP at Qualcomm Technologies, professor at UC Irvine, postdoc at U. Toronto and UCL under supervision of prof. Geoffrey Hinton, and postdoc at Caltech under supervision of prof. Pietro Perona. He finished his PhD in theoretical high energy physics under supervision of Nobel laureate prof. Gerard ‘t Hooft.
+
+## Leyla Isik
+
+| <img src="https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Max-Welling_0633-LR-small.jpg" alt="Leyla Isik" height="250px" /> |
+
+| **Affiliation** | [Johns Hopkins University](https://cogsci.jhu.edu/directory/leyla-isik/) |
+| **Biography** | Leyla is the Clare Boothe Luce Assistant Professor of Cognitive Science at Johns Hopkins University, and holds a secondary appointment in the department of Biomedical Engineering. Before joining JHU, Leyla was a postdoc at MIT and Harvard in the Center for Brains, Minds, and Machines, where she worked with Nancy Kanwisher and Gabriel Kreiman. She received her PhD from MIT where she was advised by Tomaso Poggio, and was an undergraduate right here at JHU. 
