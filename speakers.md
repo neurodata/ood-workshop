@@ -14,7 +14,7 @@ We are delighted to feature the following awesome speakers organized into six pa
     - [Josh Tenenbaum (NI)](#josh-tenenbaum), [Bernhard Schölkopf (AI)](#bernhard-schölkopf), [Susan Athey (AI)](#susan-athey)
     - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
 - Compositional: 
-    - [Brenden Lake (NI)](#brenden-lake), [Kevin Ellis (AI)](#kevin-ellis)
+    - [Brenden Lake (NI)](#brenden-lake), [Judith Fan(NI)](#judith-fan), [Kevin Ellis (AI)](#kevin-ellis)
     - Moderator: [Zenna Tavares](http://www.zenna.org/)
 - Curiosity: 
     - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn)
@@ -89,6 +89,14 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 | **Affiliation** | [New York University / Facebook AI Research](https://cims.nyu.edu/~brenden/) |
 | **Biography** | Brenden is an Assistant Professor of Psychology and Data Science at New York University, and a Research Scientist at Facebook AI Research. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017. Brenden’s research focuses on computational problems that are easier for people than they are for machines, such as learning new concepts, compositional generalization, and question asking.
+
+## Judith Fan
+
+| <img src="https://pbs.twimg.com/profile_images/1128913594492440576/b0V58NV7.png" alt="Judith Fan" height="250px" /> |
+
+| **Affiliation** | [University of California, San Diego](https://psychology.ucsd.edu/people/profiles/jefan.html) |
+| **Biography** | Judith is an Assistant Professor of Psychology at UC San Diego. Her research addresses questions at the intersection of cognitive science, computational neuroscience, and AI. As a central case study, her lab's recent investigations focus on human visual communication, which encompasses behaviors ranging from informal sketching to formal scientific visualization and its applications in education, user interface design, and assistive technologies. Her goal in building computational models of such behaviors is to understand how perception, memory, motor planning, and social cognition functionally interact in the brain, leading to a more unified understanding of how multiple cognitive systems are coordinated during complex, natural behaviors.
+
 
 
 ## Kevin Ellis
