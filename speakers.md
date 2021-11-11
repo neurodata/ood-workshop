@@ -14,7 +14,7 @@ We are delighted to feature the following awesome speakers organized into six pa
     - [Josh Tenenbaum (NI)](#josh-tenenbaum), [Bernhard Schölkopf (AI)](#bernhard-schölkopf), [Susan Athey (AI)](#susan-athey)
     - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
 - Compositional: 
-    - [Brenden Lake (NI)](#brenden-lake), <!-- [Charles Isbell (AI)](#charles-isbell) -->
+    - [Brenden Lake (NI)](#brenden-lake), Kevin Ellis (AI)](#kevin-ellis)
     - Moderator: [Zenna Tavares](http://www.zenna.org/)
 - Curiosity: 
     - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn)
@@ -91,12 +91,12 @@ We are delighted to feature the following awesome speakers organized into six pa
 | **Biography** | Brenden is an Assistant Professor of Psychology and Data Science at New York University, and a Research Scientist at Facebook AI Research. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017. Brenden’s research focuses on computational problems that are easier for people than they are for machines, such as learning new concepts, compositional generalization, and question asking.
 
 
-<!-- ## Charles Isbell
+## Kevin Ellis
 
-| <img src="https://www.cc.gatech.edu/~isbell/headshot_dean_sized.jpg" alt="Charles Isbell" height="250px" /> |
+| <img src="https://www.cs.princeton.edu/sites/default/files/styles/embedded_image/public/uploads/kevin_ellis_headshot_0.jpg?itok=iGUkzscj" alt="Kevin Ellis" height="250px" /> |
 
-| **Affiliation** | [Georgia Institute of Technology](https://www.cc.gatech.edu/fac/Charles.Isbell/) |
-| **Biography** | Charles Isbell is a professor and the dean designate for the College of Computing. He received his BS in computer science from Georgia Tech and his PhD in computer science from MIT. His research passion is artificial intelligence. In particular, he focuses on applying statistical machine learning to building autonomous agents that must live and interact with large numbers of other intelligent agents, some of whom may be human. Lately, Isbell has turned his energies toward adaptive modeling, especially activity discovery (as distinct from activity recognition); scalable coordination; and development environments that support the rapid prototyping of adaptive agents.  -->
+| **Affiliation** | [Cornell University](https://www.cs.cornell.edu/~ellisk/) |
+| **Biography** | Kevin Ellis is a computer scientist working in artificial intelligence and program synthesis, with the goal of better combining reasoning and learning. He is an assistant professor at Cornell in computer science. Previously he was a research scientist at Common Sense Machines between starting at Cornell and completing my PhD at MIT’s Department of Brain and Cognitive Sciences, where he was coadvised by Josh Tenenbaum and Armando Solar-Lezama.
 
 ## Celeste Kidd
 
