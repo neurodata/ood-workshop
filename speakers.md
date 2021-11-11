@@ -14,7 +14,7 @@ We are delighted to feature the following awesome speakers organized into six pa
     - [Josh Tenenbaum (NI)](#josh-tenenbaum), [Bernhard Schölkopf (AI)](#bernhard-schölkopf), [Susan Athey (AI)](#susan-athey)
     - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
 - Compositional: 
-    - [Brenden Lake (NI)](#brenden-lake), Kevin Ellis (AI)](#kevin-ellis)
+    - [Brenden Lake (NI)](#brenden-lake), [Kevin Ellis (AI)](#kevin-ellis)
     - Moderator: [Zenna Tavares](http://www.zenna.org/)
 - Curiosity: 
     - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn)
