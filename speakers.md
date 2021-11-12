@@ -11,13 +11,13 @@ We are delighted to feature the following awesome speakers organized into six pa
     - [Jane Wang (NI)](#jane-wang), [Eric Traut (AI)](#eric-traut), [Sujeeth Bharadwaj (AI)](#sujeeth-bharadwaj), [Gabriel A Sliva (NI)](#gabriel-sliva)
     - Moderators: [Weiwei Yang](https://www.microsoft.com/en-us/research/)
 - Causal: 
-    - [Josh Tenenbaum (NI)](#josh-tenenbaum), [Bernhard Schölkopf (AI)](#bernhard-schölkopf), [Susan Athey (AI)](#susan-athey)
+    - [Susan Athey (AI)](#susan-athey), [Konrad Kording (NI)](#konrad-kording), [Amit Sharma (AI)](#amit-sharma)
     - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
 - Compositional: 
     - [Brenden Lake (NI)](#brenden-lake), [Judith Fan(NI)](#judith-fan), [Kevin Ellis (AI)](#kevin-ellis)
     - Moderator: [Zenna Tavares](http://www.zenna.org/)
 - Curiosity: 
-    - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn)
+    - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn), [Timothy Verstynen (NI)](#timothy-verstynen)
     - Moderator: [Jonathan Flowers](https://www.american.edu/cas/faculty/jflowers.cfm) 
 - Constraints: 
     - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings (AI)](#ralph-etienne-cummings)
@@ -59,22 +59,6 @@ We are delighted to feature the following awesome speakers organized into six pa
 | **Biography** | Dr. Gabriel A. Silva is a Professor in the Department of Bioengineering and the Department of Neurosciences at the University of California San Diego. He holds a Jacobs Family Scholar in Engineering Endowed Chair, is the Founding Director of the Center for Engineered Natural Intelligence, and Associate Director of the Kavli Institute for Brain and Mind. He is an affiliated faculty member in the Department of NanoEngineering, and a faculty member in the BioCircuits Institute, the Neurosciences Graduate Program, Computational Neurobiology Program, and Institute for Neural Computation. Previously, Silva served as Vice Chair of the Department of Bioengineering, and was Co-Director of the Retinal Engineering Center in the Institute of Engineering in Medicine. As an Associate Professor he held the Jacobs Faculty Fellows Professor of Bioengineering. 
 
 
-## Josh Tenenbaum
-
-| <img src="https://hai.stanford.edu/sites/default/files/styles/person_medium/public/2020-03/joshua_tenenbaum_web2.jpg" alt="Josh Tenenbaum" height="250px" /> |
-
-| **Affiliation** | [MIT Quest for Intelligence](https://mitibmwatsonailab.mit.edu/people/joshua-tenenbaum/) |
-| **Biography** | Joshua Tenenbaum is a professor of computational cognitive science in MIT’s Department of Brain and Cognitive Sciences and a scientific director with the MIT Quest for Intelligence. He is also an investigator at the Center for Brains, Minds and Machines and the Computer Science and Artificial Intelligence Laboratory. Tenenbaum’s research straddles cognitive science and artificial intelligence, where his goals are to reverse engineer human intelligence and to build machines that behave in human-like ways and have greater use to society. Through a combination of mathematical modeling, computer simulation, and behavioral experiments, Tenenbaum tries to uncover the logic behind our everyday inductive leaps: constructing perceptual representations, separating “style” and “content” in perception, learning concepts and words, judging similarity or representativeness, inferring causal connections, noticing coincidences and predicting the future. Tenenbaum is a MacArthur Fellow and has received the National Academy of Sciences’ Troland Research Award. He earned a BA from Yale University, and a PhD in brain and cognitive sciences from MIT.
-
-
-## Bernhard Schölkopf
-
-| <img src="https://www.is.mpg.de/uploads/employee/image/145/L1170153.jpg" alt="Bernhard Schölkopf" height="250px" /> |
-
-| **Affiliation** | [Max Planck Institute for Intelligent Systems](https://www.is.mpg.de/~bs/) |
-| **Biography** | Bernhard Schölkopf is a director at the Max Planck Institute for Intelligent Systems in Tübingen, Germany, where he heads the Department of Empirical Inference. He is a leading researcher in the machine learning community, where he is particularly active in the field of kernel methods. He has made particular contributions to support vector machines and kernel PCA. A large part of his work is the development of novel machine learning algorithms through their formulation as optimisation problems.
-
-
 ## Susan Athey
 
 | <img src="https://athey.people.stanford.edu/sites/g/files/sbiybj5686/f/photo-faculty-athey-susan.jpg" alt="Susan Athey" height="250px" /> |
@@ -82,6 +66,20 @@ We are delighted to feature the following awesome speakers organized into six pa
 | **Affiliation** | [Stanford Institute for Human-Centered Artificial Intelligence](https://athey.people.stanford.edu/) |
 | **Biography** | Susan Athey is the Economics of Technology Professor at Stanford Graduate School of Business. She received her bachelor’s degree from Duke University and her PhD from Stanford, and she holds an honorary doctorate from Duke University. She is the Associate Director at the Stanford Institute for Human-Centered Artificial Intelligence.
 
+## Konrad Kording
+
+| <img src="https://directory.seas.upenn.edu/wp-content/uploads/2020/03/kording-konrad.jpg" alt="Konrad Kording" height="250px" /> |
+
+| **Affiliation** | [University of Pennsylvania](http://kordinglab.com/) |
+| **Biography** | Konrad Kording is a professor of Neuroscience at the Perelman School of Medicine. Dr. Kording’s research has one single focus: data that matters. Early research in the lab focused on computational neuroscience and movement. But as the approaches matured, the focus has been on discovering ways in which new data sources and emerging data analysis can enable awesome possibilities. His lab current focuses on causality in data science applications.
+
+
+## Amit Sharma
+
+| <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/avatar_user__1481003908-360x360.jpg" alt="Amit Sharma" height="250px" /> |
+
+| **Affiliation** | [Microsoft Research](https://www.microsoft.com/en-us/research/people/amshar/) |
+| **Biography** | Amit Sharma is a researcher at Microsoft Research India. From 2015-2017, he was a postdoctoral researcher at MSR New York working with Jake Hofman and Duncan Watts. Prior to that, he completed his Ph.D. in Computer Science at Cornell University and his undergraduate at IIT Kharagpur. His work has received a Best Paper Honorable Mention Award at the 2016 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), the 2012 Yahoo! Key Scientific Challenges Award and the 2009 Honda Young Engineer and Scientist Award.
 
 ## Brenden Lake
 
@@ -119,6 +117,13 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 | **Affiliation** | [Stanford University](https://ai.stanford.edu/~cbfinn/) |
 | **Biography** | Chelsea Finn is an Assistant Professor in Computer Science and Electrical Engineering at Stanford University. Professor Finn's research interests lie in the ability to enable robots and other agents to develop broadly intelligent behavior through learning and interaction. Her work lies at the intersection of machine learning and robotic control, including topics such as end-to-end learning of visual perception and robotic manipulation skills, deep reinforcement learning of general skills from autonomously collected experience, and meta-learning algorithms that can enable fast learning of new concepts and behaviors.
+
+## Timothy Verstynen
+
+| <img src="https://www.cmu.edu/dietrich/psychology/images/directory/verstynen800x800.jpg" alt="Timothy Verstynen" height="250px" /> |
+
+| **Affiliation** | [Carnegie Mellon University](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/verstynen-timothy.html) |
+| **Biography** | Timothy Verstynen is an Associate Professor in Psychology and the Carnegie Mellon Neuroscience Institute with a courtesy appointment in Biomedical Engineering at CMU and the Learning Research and Development Center at the University of Pittsburgh. He is also Co-Director of the CMU-Pitt Brain Imaging Data Generation & Education (BRIDGE) Center. Professor Verstynen received his Bachelors in Psychology from the University of New Mexico and Ph.D. in Psychology from the University of California, Berkeley where he studied the neural mechanisms of complex hand movements. As a postdoctoral fellow at UCSF, he explored the computational mechanisms of fast adaptive priors in visually-guided reaching, followed by a second postdoctoral fellowship at the University of Pittsburgh, developing novel diffusion imaging approaches for mapping white matter pathways.
 
 ## Doug Burger
 
