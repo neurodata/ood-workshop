@@ -5,14 +5,35 @@ description: NeurIPS 2021 Workshop
 
 timezone: America/New_York
 
+# navigation:
+#   Home: "index"
+#   Invited Speakers: "speakers"
+#   Organizers: "organizers"
+#   Schedule: "schedule"
+#   Programme Committee: "committee"
+#   FAQ: "faq"
+#   Submit Questions: "question"
 navigation:
-  Home: "index"
-  Invited Speakers: "speakers"
-  Organizers: "organizers"
-  Schedule: "schedule"
-  Programme Committee: "committee"
-  FAQ: "faq"
-  Submit Questions: "question"
+  - title: Home
+    url: /index
+  - title: Invited Speakers
+    url: /speakers
+    sublinks:
+      - title: Continual
+        url: /continual
+      - title: Causal
+        url: /causal
+      - title: separator
+      - title: Compositional
+        url: /compositional
+  - title: Organizers
+    url: /organizers
+  - title: Programme Committee
+    url: /committee
+  - title: FAQ
+    url: /faq
+  - title: Submit Questions
+    url: /question
 
 markdown: kramdown
 
