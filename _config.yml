@@ -15,9 +15,9 @@ timezone: America/New_York
 #   Submit Questions: "question"
 navigation:
   - title: Home
-    url: /index
+    url: /index.html
   - title: Invited Speakers
-    url: /speakers
+    url: /speakers.html
     sublinks:
       - title: Continual
         url: /continual
