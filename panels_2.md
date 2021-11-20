@@ -21,89 +21,28 @@ layout: default
 <!-- Tab content -->
 <div id="Continual" class="tabcontent">
 <br>
-    <h2>Panel: Continual</h2>
-    <h3>Moderator: <a href="https://www.microsoft.com/en-us/research/">Weiwei Yang</a></h3>
-    <hr>
-    <h2 id="jane-wang">Jane Wang</h2>
-    <table>
-    <tbody>
-        <tr>
-        <td><img src="https://images.squarespace-cdn.com/content/v1/555aab07e4b03e184ddaf731/1611494871677-IHJSDDSKS72SJVX4OTTQ/ke17ZwdGBToddI8pDm48kMsk0cDTD4GFmCoFaGRKmJFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHPs585J519qQ-VXT6i46DkwmeJ7jyRhTrpXvpS8Ta4fAPkD4V17zXFNDfMDewRsdI/Jane%2BWang-808cropped.jpg" alt="Jane Wang" height="250px" /></td>
-        </tr>
-    </tbody>
-    </table>
-    <table>
-    <tbody>
-        <tr>
-        <td><strong>Affiliation</strong></td>
-        <td><a href="http://www.janexwang.com/">DeepMind</a></td>
-        </tr>
-        <tr>
-        <td><strong>Biography</strong></td>
-        <td>Jane Wang is a research scientist at DeepMind on the neuroscience team, working on meta-reinforcement learning and neuroscience-inspired artificial agents. Her background is in physics, complex systems, and computational and cognitive neuroscience.</td>
-        </tr>
-    </tbody>
-    </table>
-    <h2 id="eric-traut">Eric Traut</h2>
-    <table>
-    <tbody>
-        <tr>
-        <td><img src="https://static.wikia.nocookie.net/ipod/images/1/1f/Eric_Traut_2008.jpg" alt="Eric Traut" height="250px" /></td>
-        </tr>
-    </tbody>
-    </table>
-    <table>
-    <tbody>
-        <tr>
-        <td><strong>Affiliation</strong></td>
-        <td><a href="https://microsoft.fandom.com/wiki/Eric_Traut">Microsoft</a></td>
-        </tr>
-        <tr>
-        <td><strong>Biography</strong></td>
-        <td>Eric Traut is an American software engineer and software emulation pioneer. Traut graduated from Stanford University in 1992. From 1993 to 1995 he worked for Apple Computer, creating a Mac 68K emulator to be used in PowerPC-based Macintoshes.His work on this project led to a patent on a form of dynamic recompilation. Traut went on to join Connectix, where he developed successful commercial emulators such as Virtual PC and Virtual Game Station. He became Connectix’s Chief Technical Officer in 2001. Traut became a Microsoft employee after the company purchased Connectix in 2003. Traut left Microsoft in late 2012. Traut rejoined Microsoft in May 2014 and is now a Technical Fellow.</td>
-        </tr>
-    </tbody>
-    </table>
-    <h2 id="sujeeth-bharadwaj">Sujeeth Bharadwaj</h2>
-    <table>
-    <tbody>
-        <tr>
-        <td><img src="https://www.microsoft.com/en-us/research/uploads/prod/2021/09/sujeeth_profile-scaled.jpg" alt="Sujeeth Bharadwaj" height="250px" /></td>
-        </tr>
-    </tbody>
-    </table>
-    <table>
-    <tbody>
-        <tr>
-        <td><strong>Affiliation</strong></td>
-        <td><a href="https://www.microsoft.com/en-us/research/people/sujbhara/">Microsoft</a></td>
-        </tr>
-        <tr>
-        <td><strong>Biography</strong></td>
-        <td>Sujeeth Bharadwaj leads machine learning research and development in resource-optimized deep learning, computer vision, and NLP. He is especially passionate about healthcare/medical imaging applications where efficient algorithms are critical – given gigabyte-sized input data (e.g. 3D CT/MRI) and growing model complexity. Most recently, he developed SONIC (small, optimized network using independent computations, with fewer than 4.3M parameters) to detect chest infections from x-rays. He was featured in Intelligent Health’s Top-50 Innovators 2020 for this work.</td>
-        </tr>
-    </tbody>
-    </table>
-    <h2 id="gabriel-sliva">Gabriel Sliva</h2>
-    <table>
-    <tbody>
-        <tr>
-        <td><img src="https://soeadm.ucsd.edu/faculty/faculty_bios/photos/217.jpg" alt="Gabriel A Sliva" height="250px" /></td>
-        </tr>
-    </tbody>
-    </table>
-    <table>
-    <tbody>
-        <tr>
-        <td><strong>Affiliation</strong></td>
-        <td><a href="http://www.silva.ucsd.edu/">University of California, San Diego</a></td>
-        </tr>
-        <tr>
-        <td><strong>Biography</strong></td>
-        <td>Dr. Gabriel A. Silva is a Professor in the Department of Bioengineering and the Department of Neurosciences at the University of California San Diego. He holds a Jacobs Family Scholar in Engineering Endowed Chair, is the Founding Director of the Center for Engineered Natural Intelligence, and Associate Director of the Kavli Institute for Brain and Mind. He is an affiliated faculty member in the Department of NanoEngineering, and a faculty member in the BioCircuits Institute, the Neurosciences Graduate Program, Computational Neurobiology Program, and Institute for Neural Computation. Previously, Silva served as Vice Chair of the Department of Bioengineering, and was Co-Director of the Retinal Engineering Center in the Institute of Engineering in Medicine. As an Associate Professor he held the Jacobs Faculty Fellows Professor of Bioengineering.</td>
-        </tr>
-    </tbody>
-    </table>
+- Continual: 
+    - [Jane Wang (NI)](#jane-wang), [Eric Traut (AI)](#eric-traut), [Sujeeth Bharadwaj (AI)](#sujeeth-bharadwaj), [Gabriel A Sliva (NI)](#gabriel-sliva)
+    - Moderators: [Weiwei Yang](https://www.microsoft.com/en-us/research/)
+- Causal: 
+    - [Susan Athey (AI)](#susan-athey), [Konrad Kording (NI)](#konrad-kording), [Amit Sharma (AI)](#amit-sharma)
+    - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
+- Compositional: 
+    - [Brenden Lake (NI)](#brenden-lake), [Judith Fan(NI)](#judith-fan), [Kevin Ellis (AI)](#kevin-ellis)
+    - Moderator: [Zenna Tavares](http://www.zenna.org/)
+- Curiosity: 
+    - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn), [Timothy Verstynen (NI)](#timothy-verstynen)
+    - Moderator: [Jonathan Flowers](https://www.american.edu/cas/faculty/jflowers.cfm) 
+- Constraints: 
+    - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings (AI)](#ralph-etienne-cummings)
+    - Moderator: [Soledad Villar](https://www.ams.jhu.edu/villar/)
+- General Discussion 1: 
+    - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
+    - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
+- General Discussion 2: 
+    - [Yoshua Bengio (AI)](#yoshua-bengio), [Max Welling](#max-welling), [Leyla Isik](#leyla-isik)
+    - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
+
 </div>
 
 <div id="Causal" class="tabcontent">
