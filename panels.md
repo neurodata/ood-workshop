@@ -1,58 +1,58 @@
 ---
-layout: defaULt
+layout: default
 ---
 
 # Panels
 
-<SPAN class="widget"  markdown="1">
+<div class="widget"  markdown="1">
   
-  <OL class="widget-list" id="general2" markdown="1">
-    <span style="display:block" class="note">It **works!**</span>
-  </OL>
-  <OL class="widget-list" id="general1" markdown="1">
+  <ol class="widget-list" id="tab1" markdown="1">
 
-    <span style="display:block" class="note">
+    ## General 2 
+
+  </ol>
+  <ol class="widget-list" id="tab2" markdown="1">
+    
     - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
-    </span>
-
-  </OL>
-  <OL class="widget-list" id="constraints">
+    
+  </ol>
+  <ol class="widget-list" id="tab3">
     constraints
-  </OL>
-  <OL class="widget-list" id="curiosity">
+  </ol>
+  <ol class="widget-list" id="tab4">
     curiosity
-  </OL>
-  <OL class="widget-list" id="compositional">
+  </ol>
+  <ol class="widget-list" id="tab5">
     compositional
-  </OL>
-  <OL class="widget-list" id="causal">
+  </ol>
+  <ol class="widget-list" id="tab6">
    causal
-  </OL>
-  <OL class="widget-list" id="continual">
+  </ol>
+  <ol class="widget-list" id="tab7">
     continual
-  </OL>
-  <UL class="widget-tabs">   
-    <LI class="widget-tab">
-        <a href="#general2" class="widget-tab-link">General Discussion 2</a> 
-    </LI>
-    <LI class="widget-tab">
-        <a href="#general1" class="widget-tab-link">General Discussion 1</a> 
-    </LI>
-    <LI class="widget-tab">
-        <a href="#constraints" class="widget-tab-link">Constraints</a> 
-    </LI>
-    <LI class="widget-tab">
-        <a href="#curiosity" class="widget-tab-link">Curiosity</a> 
-    </LI>
-    <LI class="widget-tab">
-        <a href="#compositional" class="widget-tab-link">Compositional</a> 
-    </LI>
-    <LI class="widget-tab">
-        <a href="#causal" class="widget-tab-link">Causal</a> 
-    </LI>
-    <LI class="widget-tab">
-        <a href="#continual" class="widget-tab-link">Continual</a>
-    </LI>
-  </UL>
-</SPAN>
+  </ol>
+  <ul class="widget-tabs">   
+    <li class="widget-tab">
+        <a href="#tab1" class="widget-tab-link">General Discussion 2</a> 
+    </li>
+    <li class="widget-tab">
+        <a href="#tab2" class="widget-tab-link">General Discussion 1</a> 
+    </li>
+    <li class="widget-tab">
+        <a href="#tab3" class="widget-tab-link">Constraints</a> 
+    </li>
+    <li class="widget-tab">
+        <a href="#tab4" class="widget-tab-link">Curiosity</a> 
+    </li>
+    <li class="widget-tab">
+        <a href="#tab5" class="widget-tab-link">Compositional</a> 
+    </li>
+    <li class="widget-tab">
+        <a href="#tab6" class="widget-tab-link">Causal</a> 
+    </li>
+    <li class="widget-tab">
+        <a href="#tab7" class="widget-tab-link">Continual</a>
+    </li>
+  </ul>
+</DIV>
