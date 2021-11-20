@@ -13,7 +13,6 @@ navigation:
   Programme Committee: "committee"
   FAQ: "faq"
   Submit Questions: "question"
-  Panels: "panels"
 # navigation:
 #   - title: Home
 #     url: /index.html
@@ -44,6 +43,5 @@ kramdown:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-tabs
 
 exclude: ["README.md", "Gemfile", "Gemfile.lock"]
