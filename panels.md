@@ -513,30 +513,27 @@ layout: default
     </table>
 
   </ol>
-  <ul class="widget-tabs">   
-    <li class="widget-tab">
-        <a href="#general3" class="widget-tab-link">General Discussion 3</a> 
-    </li>
+  <ul class="widget-tabs">
     <li class="widget-tab">
         <a href="#general2" class="widget-tab-link">General Discussion 2</a> 
     </li>
     <li class="widget-tab">
         <a href="#general1" class="widget-tab-link">General Discussion 1</a> 
-    </li>
+    </li> 
     <li class="widget-tab">
         <a href="#constraints" class="widget-tab-link">Constraints</a> 
-    </li>
+    </li> 
     <li class="widget-tab">
         <a href="#curiosity" class="widget-tab-link">Curiosity</a> 
-    </li>
+    </li> 
     <li class="widget-tab">
         <a href="#compositional" class="widget-tab-link">Compositional</a> 
-    </li>
+    </li> 
     <li class="widget-tab">
         <a href="#causal" class="widget-tab-link">Causal</a> 
-    </li>
+    </li> 
     <li class="widget-tab">
         <a href="#continual" class="widget-tab-link">Continual</a>
-    </li>
+    </li> 
   </ul>
 </DIV>
