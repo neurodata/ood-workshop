@@ -4,15 +4,16 @@ layout: default
 
 # Panels
 
+<span style="display:block" class="note">It **works!**</span>
 <DIV class="widget"  markdown="1">
   
   <ol class="widget-list" id="general2" markdown="1">
 
-    ## General 2
+    ## General 2 
 
   </ol>
   <ol class="widget-list" id="general1" markdown="1">
-
+    
     - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
     
