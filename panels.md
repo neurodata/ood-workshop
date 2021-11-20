@@ -129,6 +129,6 @@ layout: default
     <li class="widget-tab">
       <a href="#causal" class="widget-tab-link">Causal</a> 
     <li class="widget-tab">
-      <a href="#continual" class="widget-tab-link">Continual</a> 
-  </ul>
+      <a href="#continual" class="widget-tab-link">Continual</a> </li>
+</ul>
 </div>
