@@ -194,3 +194,78 @@ We are delighted to feature the following awesome speakers organized into six pa
 
 | **Affiliation** | [Johns Hopkins University](https://cogsci.jhu.edu/directory/leyla-isik/) |
 | **Biography** | Leyla is the Clare Boothe Luce Assistant Professor of Cognitive Science at Johns Hopkins University, and holds a secondary appointment in the department of Biomedical Engineering. Before joining JHU, Leyla was a postdoc at MIT and Harvard in the Center for Brains, Minds, and Machines, where she worked with Nancy Kanwisher and Gabriel Kreiman. She received her PhD from MIT where she was advised by Tomaso Poggio, and was an undergraduate right here at JHU. 
+
+<div class="widget">
+  <ol class="widget-list" id="managers">
+    <li>
+      <a class="widget-list-link">
+        <img src="http://www.gravatar.com/avatar/47?f=y&amp;s=64&amp;d=identicon">
+        Manager #1 <span>481 followers</span>
+      </a>
+    </li>
+    <li>
+      <a class="widget-list-link">
+        <img src="http://www.gravatar.com/avatar/47?f=y&amp;s=64&amp;d=identicon">
+        Manager #2 <span>5162 followers</span>
+      </a>
+    </li>
+    <li>
+      <a class="widget-list-link">
+        <img src="http://www.gravatar.com/avatar/47?f=y&amp;s=64&amp;d=identicon">
+        Manager #3 <span>342 followers</span>
+      </a>
+    </li>
+  </ol>
+
+  <ol class="widget-list" id="designers">
+    <li>
+      <a class="widget-list-link">
+        <img src="http://www.gravatar.com/avatar/5?f=y&amp;s=64&amp;d=identicon">
+        Designer #1 <span>481 followers</span>
+      </a>
+    </li>
+    <li>
+      <a class="widget-list-link">
+        <img src="http://www.gravatar.com/avatar/5?f=y&amp;s=64&amp;d=identicon">
+        Designer #2 <span>5162 followers</span>
+      </a>
+    </li>
+    <li>
+      <a class="widget-list-link">
+        <img src="http://www.gravatar.com/avatar/5?f=y&amp;s=64&amp;d=identicon">
+        Designer #3 <span>342 followers</span>
+      </a>
+    </li>
+  </ol>
+
+  <ol class="widget-list" id="developers">
+    <li>
+      <a class="widget-list-link">
+        <img src="http://www.gravatar.com/avatar/6?f=y&amp;s=64&amp;d=identicon">
+        Developer #1 <span>481 followers</span>
+      </a>
+    </li>
+    <li>
+      <a class="widget-list-link">
+        <img src="http://www.gravatar.com/avatar/6?f=y&amp;s=64&amp;d=identicon">
+        Developer #2 <span>5162 followers</span>
+      </a>
+    </li>
+    <li>
+      <a class="widget-list-link">
+        <img src="http://www.gravatar.com/avatar/6?f=y&amp;s=64&amp;d=identicon">
+        Developer #3 <span>342 followers</span>
+      </a>
+    </li>
+  </ol>
+
+  <ul class="widget-tabs">
+    <li class="widget-tab">
+      <a href="#managers" class="widget-tab-link">Managers</a>
+      <!-- Omitting the end tag is valid HTML and removes the space in-between inline blocks. -->
+    <li class="widget-tab">
+      <a href="#designers" class="widget-tab-link">Designers</a>
+    <li class="widget-tab">
+      <a href="#developers" class="widget-tab-link">Developers</a>
+  </ul>
+</div>
