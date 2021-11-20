@@ -6,22 +6,22 @@ layout: default
 <div class="widget">
   
   <ol class="widget-list" id="general2">
-
+    general2
   </ol>
   <ol class="widget-list" id="general1">
-
+    general1
   </ol>
   <ol class="widget-list" id="constraints">
-
+    constraints
   </ol>
   <ol class="widget-list" id="curiosity">
-
+    curiosity
   </ol>
   <ol class="widget-list" id="compositional">
-
+    compositional
   </ol>
   <ol class="widget-list" id="causal">
-   
+   causal
   </ol>
   <ol class="widget-list" id="continual">
     <ul>
