@@ -24,7 +24,7 @@ layout: default
    causal
   </ol>
   <ol class="widget-list" id="continual">
-    <ul>
+    <!-- <ul>
         <li>Continual:
             <ul>
             <li><a href="#jane-wang">Jane Wang (NI)</a>, <a href="#eric-traut">Eric Traut (AI)</a>, <a href="#sujeeth-bharadwaj">Sujeeth Bharadwaj (AI)</a>, <a href="#gabriel-sliva">Gabriel A Sliva (NI)</a></li>
@@ -111,23 +111,24 @@ layout: default
         <td>Dr. Gabriel A. Silva is a Professor in the Department of Bioengineering and the Department of Neurosciences at the University of California San Diego. He holds a Jacobs Family Scholar in Engineering Endowed Chair, is the Founding Director of the Center for Engineered Natural Intelligence, and Associate Director of the Kavli Institute for Brain and Mind. He is an affiliated faculty member in the Department of NanoEngineering, and a faculty member in the BioCircuits Institute, the Neurosciences Graduate Program, Computational Neurobiology Program, and Institute for Neural Computation. Previously, Silva served as Vice Chair of the Department of Bioengineering, and was Co-Director of the Retinal Engineering Center in the Institute of Engineering in Medicine. As an Associate Professor he held the Jacobs Faculty Fellows Professor of Bioengineering.</td>
         </tr>
     </tbody>
-    </table>
+    </table> -->
+    continual
   </ol>
 
 <ul class="widget-tabs">   
     <li class="widget-tab">
-      <a href="#general2" class="widget-tab-link">General Discussion 2</a></li>
+      <a href="#general2" class="widget-tab-link">General Discussion 2</a> 
     <li class="widget-tab">
-      <a href="#general1" class="widget-tab-link">General Discussion 1</a></li>
+      <a href="#general1" class="widget-tab-link">General Discussion 1</a> 
     <li class="widget-tab">
-      <a href="#constraints" class="widget-tab-link">Constraints</a></li>
+      <a href="#constraints" class="widget-tab-link">Constraints</a> 
     <li class="widget-tab">
-      <a href="#curiosity" class="widget-tab-link">Curiosity</a></li>
+      <a href="#curiosity" class="widget-tab-link">Curiosity</a> 
     <li class="widget-tab">
-      <a href="#compositional" class="widget-tab-link">Compositional</a></li>
+      <a href="#compositional" class="widget-tab-link">Compositional</a> 
     <li class="widget-tab">
-      <a href="#causal" class="widget-tab-link">Causal</a></li>   
+      <a href="#causal" class="widget-tab-link">Causal</a> 
     <li class="widget-tab">
-      <a href="#continual" class="widget-tab-link">Continual</a> </li>
+      <a href="#continual" class="widget-tab-link">Continual</a> 
   </ul>
 </div>
