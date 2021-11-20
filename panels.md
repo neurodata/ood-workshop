@@ -16,7 +16,7 @@ layout: default
 
 
 <!-- Tab content -->
-<div id="Continual" class="tabcontent">
+<div id="Continual" class="tabcontent active">
 <br>
 - Continual: 
     - [Jane Wang (NI)](#jane-wang), [Eric Traut (AI)](#eric-traut), [Sujeeth Bharadwaj (AI)](#sujeeth-bharadwaj), [Gabriel A Sliva (NI)](#gabriel-sliva)
