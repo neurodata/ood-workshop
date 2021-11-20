@@ -428,7 +428,7 @@ layout: default
   </ol>
   <ol class="widget-list" id="continual">
     <br>
-    <h2>Causal</h2>
+    <h2>Continual</h2>
     <h3>Moderator: <a href="https://www.microsoft.com/en-us/research/">Weiwei Yang</a></h3>
     <hr>
     <h2 id="jane-wang">Jane Wang</h2>
