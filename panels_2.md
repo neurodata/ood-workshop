@@ -17,7 +17,7 @@ layout: default
 
 </div>
 
-
+<div style="width: 120%">
 <!-- Tab content -->
 <div id="Continual" class="tabcontent">
 <br>
@@ -57,6 +57,11 @@ layout: default
 </div>
 
 <div id="Causal" class="tabcontent">
+
+- Causal: 
+    - [Susan Athey (AI)](#susan-athey), [Konrad Kording (NI)](#konrad-kording), [Amit Sharma (AI)](#amit-sharma)
+    - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
+
 ## Susan Athey
 
 | <img src="https://athey.people.stanford.edu/sites/g/files/sbiybj5686/f/photo-faculty-athey-susan.jpg" alt="Susan Athey" height="250px" /> |
@@ -80,6 +85,11 @@ layout: default
 | **Biography** | Amit Sharma is a researcher at Microsoft Research India. From 2015-2017, he was a postdoctoral researcher at MSR New York working with Jake Hofman and Duncan Watts. Prior to that, he completed his Ph.D. in Computer Science at Cornell University and his undergraduate at IIT Kharagpur. His work has received a Best Paper Honorable Mention Award at the 2016 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), the 2012 Yahoo! Key Scientific Challenges Award and the 2009 Honda Young Engineer and Scientist Award.
 
 <div id="Compositional" class="tabcontent">
+
+- Compositional: 
+    - [Brenden Lake (NI)](#brenden-lake), [Judith Fan(NI)](#judith-fan), [Kevin Ellis (AI)](#kevin-ellis)
+    - Moderator: [Zenna Tavares](http://www.zenna.org/)
+
 ## Brenden Lake
 
 | <img src="https://cims.nyu.edu/~brenden/assets/img/brenden.jpg" alt="Brenden Lake" height="250px" /> |
@@ -94,8 +104,6 @@ layout: default
 | **Affiliation** | [University of California, San Diego](https://psychology.ucsd.edu/people/profiles/jefan.html) |
 | **Biography** | Judith is an Assistant Professor of Psychology at UC San Diego. Her research addresses questions at the intersection of cognitive science, computational neuroscience, and AI. As a central case study, her lab's recent investigations focus on human visual communication, which encompasses behaviors ranging from informal sketching to formal scientific visualization and its applications in education, user interface design, and assistive technologies. Her goal in building computational models of such behaviors is to understand how perception, memory, motor planning, and social cognition functionally interact in the brain, leading to a more unified understanding of how multiple cognitive systems are coordinated during complex, natural behaviors.
 
-
-
 ## Kevin Ellis
 
 | <img src="https://www.cs.princeton.edu/sites/default/files/styles/embedded_image/public/uploads/kevin_ellis_headshot_0.jpg?itok=iGUkzscj" alt="Kevin Ellis" height="250px" /> |
@@ -104,6 +112,11 @@ layout: default
 | **Biography** | Kevin Ellis is a computer scientist working in artificial intelligence and program synthesis, with the goal of better combining reasoning and learning. He is an assistant professor at Cornell in computer science. Previously he was a research scientist at Common Sense Machines between starting at Cornell and completing my PhD at MIT’s Department of Brain and Cognitive Sciences, where he was coadvised by Josh Tenenbaum and Armando Solar-Lezama.
 
 <div id="Curiosity" class="tabcontent">
+
+- Curiosity: 
+    - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn), [Timothy Verstynen (NI)](#timothy-verstynen)
+    - Moderator: [Jonathan Flowers](https://www.american.edu/cas/faculty/jflowers.cfm) 
+
 ## Celeste Kidd
 
 | <img src="https://psychology.berkeley.edu/sites/default/files/styles/300x300sc/public/people/cropped-celestekidd.jpg" alt="Celeste Kidd" height="250px" /> |
@@ -126,6 +139,11 @@ layout: default
 | **Biography** | Timothy Verstynen is an Associate Professor in Psychology and the Carnegie Mellon Neuroscience Institute with a courtesy appointment in Biomedical Engineering at CMU and the Learning Research and Development Center at the University of Pittsburgh. He is also Co-Director of the CMU-Pitt Brain Imaging Data Generation & Education (BRIDGE) Center. Professor Verstynen received his Bachelors in Psychology from the University of New Mexico and Ph.D. in Psychology from the University of California, Berkeley where he studied the neural mechanisms of complex hand movements. As a postdoctoral fellow at UCSF, he explored the computational mechanisms of fast adaptive priors in visually-guided reaching, followed by a second postdoctoral fellowship at the University of Pittsburgh, developing novel diffusion imaging approaches for mapping white matter pathways.
 
 <div id="Constraints" class="tabcontent">
+
+- Constraints: 
+    - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings (AI)](#ralph-etienne-cummings)
+    - Moderator: [Soledad Villar](https://www.ams.jhu.edu/villar/)
+
 ## Doug Burger
 
 | <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Headshot__0125_cropped_doug-burger.jpg" alt="Doug Burger" height="250px" /> |
@@ -155,6 +173,11 @@ layout: default
 | **Biography** | Ralph Etienne-Cummings received his B.Sc. in physics in 1988. He completed his M.S.E.E (’91) and PhD (’94) in electrical engineering at the University of Pennsylvania working at the interface of microelectronics and neuroscience. Currently, Prof. Etienne-Cummings is a Professor of Electrical and Computer Engineering and Computer Science at Johns Hopkins University. He was the founding director of the Institute of Neuromorphic Engineering. He has served as Chairman of various IEEE Circuits and Systems (CAS) Technical Committees and was elected as a member of CAS Board of Governors. He also serves on numerous editorial boards in his field. He is an IEEE and AIMBE Fellow, and the recipient of the NSF’s Career, Office of Naval Research YIP, and a Fulbright Awards, among various others, which include numerous publication awards.  Prof. Etienne-Cummings is an active entrepreneur in the neuroengineering space and holds numerous patents on this research.
 
 <div id="GeneralI" class="tabcontent">
+
+- General Discussion I: 
+    - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
+    - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
+
 ## Anima Anandkumar
 
 | <img src="https://blogs.nvidia.com/wp-content/uploads/2019/12/Anima-Anandkumar-200x200.jpg" alt="Anima Anandkumar" height="250px" /> |
@@ -177,6 +200,11 @@ layout: default
 | **Biography** | Terrence Joseph Sejnowski is the Francis Crick Professor at the Salk Institute for Biological Studies where he directs the Computational Neurobiology Laboratory and is the director of the Crick-Jacobs center for theoretical and computational biology. His research in neural networks and computational neuroscience has been pioneering. Sejnowski is also Professor of Biological Sciences and adjunct professor in the departments of neurosciences, psychology, cognitive science, computer science and engineering at the University of California, San Diego, where he is co-director of the Institute for Neural Computation.
 
 <div id="GeneralII" class="tabcontent">
+
+- General Discussion II: 
+    - [Yoshua Bengio (AI)](#yoshua-bengio), [Max Welling](#max-welling), [Leyla Isik](#leyla-isik)
+    - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
+
 ## Yoshua Bengio
 
 | <img src="https://awards.acm.org/binaries/content/gallery/acm/awards/photo/a-b/bengio_3406375" alt="Yoshua Bengio" height="250px" /> |
@@ -197,4 +225,6 @@ layout: default
 
 | **Affiliation** | [Johns Hopkins University](https://cogsci.jhu.edu/directory/leyla-isik/) |
 | **Biography** | Leyla is the Clare Boothe Luce Assistant Professor of Cognitive Science at Johns Hopkins University, and holds a secondary appointment in the department of Biomedical Engineering. Before joining JHU, Leyla was a postdoc at MIT and Harvard in the Center for Brains, Minds, and Machines, where she worked with Nancy Kanwisher and Gabriel Kreiman. She received her PhD from MIT where she was advised by Tomaso Poggio, and was an undergraduate right here at JHU. 
+</div>
+
 </div>
