@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Invited Speakers
-
+</div>
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks" onclick="openPanel(event, 'Continual')">Continual</button>
@@ -15,9 +15,6 @@ layout: default
   <button class="tablinks" onclick="openPanel(event, 'GeneralII')">General Discussion II</button>
 
 
-</div>
-
-<div style="width: 120%">
 <!-- Tab content -->
 <div id="Continual" class="tabcontent">
 <br>
@@ -57,7 +54,7 @@ layout: default
 </div>
 
 <div id="Causal" class="tabcontent">
-
+<br>
 - Causal: 
     - [Susan Athey (AI)](#susan-athey), [Konrad Kording (NI)](#konrad-kording), [Amit Sharma (AI)](#amit-sharma)
     - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
@@ -112,7 +109,7 @@ layout: default
 | **Biography** | Kevin Ellis is a computer scientist working in artificial intelligence and program synthesis, with the goal of better combining reasoning and learning. He is an assistant professor at Cornell in computer science. Previously he was a research scientist at Common Sense Machines between starting at Cornell and completing my PhD at MIT’s Department of Brain and Cognitive Sciences, where he was coadvised by Josh Tenenbaum and Armando Solar-Lezama.
 
 <div id="Curiosity" class="tabcontent">
-
+<br>
 - Curiosity: 
     - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn), [Timothy Verstynen (NI)](#timothy-verstynen)
     - Moderator: [Jonathan Flowers](https://www.american.edu/cas/faculty/jflowers.cfm) 
@@ -139,7 +136,7 @@ layout: default
 | **Biography** | Timothy Verstynen is an Associate Professor in Psychology and the Carnegie Mellon Neuroscience Institute with a courtesy appointment in Biomedical Engineering at CMU and the Learning Research and Development Center at the University of Pittsburgh. He is also Co-Director of the CMU-Pitt Brain Imaging Data Generation & Education (BRIDGE) Center. Professor Verstynen received his Bachelors in Psychology from the University of New Mexico and Ph.D. in Psychology from the University of California, Berkeley where he studied the neural mechanisms of complex hand movements. As a postdoctoral fellow at UCSF, he explored the computational mechanisms of fast adaptive priors in visually-guided reaching, followed by a second postdoctoral fellowship at the University of Pittsburgh, developing novel diffusion imaging approaches for mapping white matter pathways.
 
 <div id="Constraints" class="tabcontent">
-
+<br>
 - Constraints: 
     - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings (AI)](#ralph-etienne-cummings)
     - Moderator: [Soledad Villar](https://www.ams.jhu.edu/villar/)
@@ -173,7 +170,7 @@ layout: default
 | **Biography** | Ralph Etienne-Cummings received his B.Sc. in physics in 1988. He completed his M.S.E.E (’91) and PhD (’94) in electrical engineering at the University of Pennsylvania working at the interface of microelectronics and neuroscience. Currently, Prof. Etienne-Cummings is a Professor of Electrical and Computer Engineering and Computer Science at Johns Hopkins University. He was the founding director of the Institute of Neuromorphic Engineering. He has served as Chairman of various IEEE Circuits and Systems (CAS) Technical Committees and was elected as a member of CAS Board of Governors. He also serves on numerous editorial boards in his field. He is an IEEE and AIMBE Fellow, and the recipient of the NSF’s Career, Office of Naval Research YIP, and a Fulbright Awards, among various others, which include numerous publication awards.  Prof. Etienne-Cummings is an active entrepreneur in the neuroengineering space and holds numerous patents on this research.
 
 <div id="GeneralI" class="tabcontent">
-
+<br>
 - General Discussion I: 
     - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
@@ -200,7 +197,7 @@ layout: default
 | **Biography** | Terrence Joseph Sejnowski is the Francis Crick Professor at the Salk Institute for Biological Studies where he directs the Computational Neurobiology Laboratory and is the director of the Crick-Jacobs center for theoretical and computational biology. His research in neural networks and computational neuroscience has been pioneering. Sejnowski is also Professor of Biological Sciences and adjunct professor in the departments of neurosciences, psychology, cognitive science, computer science and engineering at the University of California, San Diego, where he is co-director of the Institute for Neural Computation.
 
 <div id="GeneralII" class="tabcontent">
-
+<br>
 - General Discussion II: 
     - [Yoshua Bengio (AI)](#yoshua-bengio), [Max Welling](#max-welling), [Leyla Isik](#leyla-isik)
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
