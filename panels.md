@@ -4,6 +4,9 @@ layout: default
 
 # Panels
 
+<DIV class="widget"  markdown="1"> It **works!** </DIV>
+<span style="display:block" class="note">It **works!**</span>
+
 <DIV class="widget"  markdown="1">
   
   <ol class="widget-list" id="general2" markdown="1">
