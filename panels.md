@@ -11,9 +11,6 @@ layout: default
   <ol class="widget-list" id="general1">
 
   </ol>
-  <ol class="widget-list" id="compositional">
-
-  </ol>
   <ol class="widget-list" id="constraints">
 
   </ol>
