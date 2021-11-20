@@ -533,6 +533,9 @@ layout: default
         <a href="#causal" class="widget-tab-link">Causal</a> 
     </li>
     <li class="widget-tab">
+        <a href="#general3" class="widget-tab-link">General Discussion 3</a> 
+    </li>
+    <li class="widget-tab">
         <a href="#continual" class="widget-tab-link">Continual</a>
     </li>
   </ul>
