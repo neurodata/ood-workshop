@@ -73,6 +73,9 @@ layout: default
 
   </ol>
   <ol class="widget-list" id="general1" markdown="1">
+    <h2>General Discussion I</h2>
+    <h3>Moderators: <a href="http://jovo.me/">Joshua Vogelstein</a>, <a href="https://www.microsoft.com/en-us/research/people/weiwya/">Weiwei Yang</a></h3>
+    <hr>
     <h2 id="anima-anandkumar">Anima Anandkumar</h2>
     <table>
     <tbody>
