@@ -7,7 +7,8 @@ timezone: America/New_York
 
 navigation:
   Home: "index"
-  Invited Speakers: "speakers"
+  # Invited Speakers: "speakers"
+  Invited Speakers: "panels"
   Organizers: "organizers"
   Schedule: "schedule"
   Programme Committee: "committee"
