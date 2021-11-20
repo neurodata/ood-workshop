@@ -8,7 +8,7 @@ layout: default
   
   <ol class="widget-list" id="general2" markdown="1">
     <br>
-    <h2>General Discussion II</h2>
+    <h2>Panel: General Discussion II</h2>
     <h3>Moderators: <a href="http://jovo.me/">Joshua Vogelstein</a>, <a href="https://www.microsoft.com/en-us/research/people/weiwya/">Weiwei Yang</a></h3>
     <hr>
     <h2 id="yoshua-bengio">Yoshua Bengio</h2>
@@ -75,7 +75,7 @@ layout: default
   </ol>
   <ol class="widget-list" id="general1" markdown="1">
     <br>
-    <h2>General Discussion I</h2>
+    <h2>Panel: General Discussion I</h2>
     <h3>Moderators: <a href="http://jovo.me/">Joshua Vogelstein</a>, <a href="https://www.microsoft.com/en-us/research/people/weiwya/">Weiwei Yang</a></h3>
     <hr>
     <h2 id="anima-anandkumar">Anima Anandkumar</h2>
@@ -141,7 +141,7 @@ layout: default
   </ol>
   <ol class="widget-list" id="constraints">
   <br>
-    <h2>Constraints</h2>
+    <h2>Panel: Constraints</h2>
     <h3>Moderator: <a href="https://www.ams.jhu.edu/villar/">Soledad Villar</a></h3>
     <hr>
     <h2 id="doug-burger">Doug Burger</h2>
@@ -227,7 +227,7 @@ layout: default
   </ol>
   <ol class="widget-list" id="curiosity">
     <br>
-    <h2>Curiosity</h2>
+    <h2>Panel: Curiosity</h2>
     <h3>Moderator: <a href="https://www.american.edu/cas/faculty/jflowers.cfm">Jonathan Flowers</a></h3>
     <hr>
     <h2 id="celeste-kidd">Celeste Kidd</h2>
@@ -294,7 +294,7 @@ layout: default
   </ol>
   <ol class="widget-list" id="compositional">
     <br>
-    <h2>Compositional</h2>
+    <h2>Panel: Compositional</h2>
     <h3>Moderator: <a href="http://www.zenna.org/">Zenna Tavares</a></h3>
     <hr>
     <h2 id="brenden-lake">Brenden Lake</h2>
@@ -361,7 +361,7 @@ layout: default
   </ol>
   <ol class="widget-list" id="causal">
     <br>
-    <h2>Causal</h2>
+    <h2>Panel: Causal</h2>
     <h3>Moderator: <a href="https://www.microsoft.com/en-us/research/people/emrek/">Emre Kiciman</a></h3>
     <hr>
     <h2 id="susan-athey">Susan Athey</h2>
@@ -428,7 +428,7 @@ layout: default
   </ol>
   <ol class="widget-list" id="continual">
     <br>
-    <h2>Continual</h2>
+    <h2>Panel: Continual</h2>
     <h3>Moderator: <a href="https://www.microsoft.com/en-us/research/">Weiwei Yang</a></h3>
     <hr>
     <h2 id="jane-wang">Jane Wang</h2>
