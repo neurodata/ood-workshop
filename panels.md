@@ -7,6 +7,12 @@ layout: default
 <div class="widget"  markdown="1">
   
   <ol class="widget-list" id="general2" markdown="1">
+    <ul>
+      <li><a href="#yoshua-bengio">Yoshua Bengio (AI)</a>, <a href="#max-welling">Max Welling</a>, <a href="#leyla-isik">Leyla Isik</a></li>
+      <li>Moderators: <a href="http://jovo.me/">Joshua Vogelstein</a>, <a href="https://www.microsoft.com/en-us/research/people/weiwya/">Weiwei Yang</a></li>
+    </ul>
+    <li>Moderators: <a href="http://jovo.me/">Joshua Vogelstein</a>, <a href="https://www.microsoft.com/en-us/research/people/weiwya/">Weiwei Yang</a></li>
+    <hr>
     <h2 id="yoshua-bengio">Yoshua Bengio</h2>
     <table>
     <tbody>
