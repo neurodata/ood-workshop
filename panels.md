@@ -1,15 +1,10 @@
 ---
-layout: default
+layout: defaULt
 ---
 
 # Panels
 
-<span style="display:block" class="note">It **works!**</span>
-<DIV class="widget"  markdown="1">
- ## It works 
-</DIV>
-
-<DIV class="widget"  markdown="1">
+<SPAN class="widget"  markdown="1">
   
   <OL class="widget-list" id="general2" markdown="1">
     <span style="display:block" class="note">It **works!**</span>
@@ -37,7 +32,7 @@ layout: default
   <OL class="widget-list" id="continual">
     continual
   </OL>
-  <ul class="widget-tabs">   
+  <UL class="widget-tabs">   
     <LI class="widget-tab">
         <a href="#general2" class="widget-tab-link">General Discussion 2</a> 
     </LI>
@@ -59,5 +54,5 @@ layout: default
     <LI class="widget-tab">
         <a href="#continual" class="widget-tab-link">Continual</a>
     </LI>
-  </ul>
-</DIV>
+  </UL>
+</SPAN>
