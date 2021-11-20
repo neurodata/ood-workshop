@@ -514,7 +514,7 @@ layout: default
 
   </ol>
   <ul class="widget-tabs">
-    <!-- <li class="widget-tab">
+    <li class="widget-tab">
         <a href="#general2" class="widget-tab-link">General Discussion 2</a> 
     </li>
     <li class="widget-tab">
@@ -525,7 +525,7 @@ layout: default
     </li> 
     <li class="widget-tab">
         <a href="#curiosity" class="widget-tab-link">Curiosity</a> 
-    </li>  -->
+    </li> 
     <li class="widget-tab">
         <a href="#compositional" class="widget-tab-link">Compositional</a> 
     </li> 
