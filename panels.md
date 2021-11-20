@@ -2,11 +2,12 @@
 layout: default
 ---
 
-# Panels
+# Invited Speakers
 
 <div class="widget"  markdown="1">
   
   <ol class="widget-list" id="general2" markdown="1">
+    <h2>General Discussion I</h2>
     <h3>Moderators: <a href="http://jovo.me/">Joshua Vogelstein</a>, <a href="https://www.microsoft.com/en-us/research/people/weiwya/">Weiwei Yang</a></h3>
     <hr>
     <h2 id="yoshua-bengio">Yoshua Bengio</h2>
