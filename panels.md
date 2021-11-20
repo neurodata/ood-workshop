@@ -128,7 +128,6 @@ layout: default
       <a href="#compositional" class="widget-tab-link">Compositional</a> 
     <li class="widget-tab">
       <a href="#causal" class="widget-tab-link">Causal</a> 
-    <li class="widget-tab">
-      <a href="#continual" class="widget-tab-link">Continual</a> </li>
-</ul>
-</div>
+    <!-- <li class="widget-tab"> -->
+      <!-- <a href="#continual" class="widget-tab-link">Continual</a> -->
+    </ul></div>
