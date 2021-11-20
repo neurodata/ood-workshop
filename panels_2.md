@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Invited Speakers
-<div style="width: 120%">
+<div style="width: 120%; margin-left: -80px">
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks" onclick="openPanel(event, 'Continual')">Continual</button>
