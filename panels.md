@@ -140,6 +140,10 @@ layout: default
     </table>
   </ol>
   <ol class="widget-list" id="constraints">
+  <br>
+    <h2>Constraints</h2>
+    <h3>Moderator: <a href="https://www.ams.jhu.edu/villar/">Soledad Villar</a></h3>
+    <hr>
     <h2 id="doug-burger">Doug Burger</h2>
     <table>
     <tbody>
@@ -222,6 +226,10 @@ layout: default
     </table>
   </ol>
   <ol class="widget-list" id="curiosity">
+    <br>
+    <h2>Curiosity</h2>
+    <h3>Moderator: <a href="https://www.american.edu/cas/faculty/jflowers.cfm">Jonathan Flowers</a></h3>
+    <hr>
     <h2 id="celeste-kidd">Celeste Kidd</h2>
     <table>
     <tbody>
@@ -285,6 +293,10 @@ layout: default
 
   </ol>
   <ol class="widget-list" id="compositional">
+    <br>
+    <h2>Compositional</h2>
+    <h3>Moderator: <a href="http://www.zenna.org/">Zenna Tavares</a></h3>
+    <hr>
     <h2 id="brenden-lake">Brenden Lake</h2>
     <table>
     <tbody>
@@ -348,6 +360,10 @@ layout: default
 
   </ol>
   <ol class="widget-list" id="causal">
+    <br>
+    <h2>Causal</h2>
+    <h3>Moderator: <a href="https://www.microsoft.com/en-us/research/people/emrek/">Emre Kiciman</a></h3>
+    <hr>
     <h2 id="susan-athey">Susan Athey</h2>
     <table>
     <tbody>
@@ -411,6 +427,10 @@ layout: default
 
   </ol>
   <ol class="widget-list" id="continual">
+    <br>
+    <h2>Causal</h2>
+    <h3>Moderator: <a href="https://www.microsoft.com/en-us/research/">Weiwei Yang</a></h3>
+    <hr>
     <h2 id="jane-wang">Jane Wang</h2>
     <table>
     <tbody>
