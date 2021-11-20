@@ -12,9 +12,11 @@ layout: default
 
   </ol>
   <ol class="widget-list" id="general1" markdown="1">
-    
+
+    <span style="display:block" class="note">
     - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
+    </span>
     
   </ol>
   <ol class="widget-list" id="constraints">
