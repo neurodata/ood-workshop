@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Panels
-```html
 <div class="widget">
   
   <ol class="widget-list" id="general2">
@@ -135,5 +134,3 @@ layout: default
       <a href="#continual" class="widget-tab-link">Continual</a> </li>
   </ul>
 </div>
-
-```
