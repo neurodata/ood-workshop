@@ -4,12 +4,11 @@ layout: default
 
 # Panels
 
-<span style="display:block" class="note">It **works!**</span>
 <DIV class="widget"  markdown="1">
   
   <ol class="widget-list" id="general2" markdown="1">
 
-    ## General 2 
+    <span style="display:block" class="note">It **works!**</span>
 
   </ol>
   <ol class="widget-list" id="general1" markdown="1">
