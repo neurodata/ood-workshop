@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Invited Speakers
-</div>
+<div style="width: 120%">
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks" onclick="openPanel(event, 'Continual')">Continual</button>
@@ -28,7 +28,6 @@ layout: default
 
 | **Affiliation** | [DeepMind](http://www.janexwang.com/) |
 | **Biography** | Jane Wang is a research scientist at DeepMind on the neuroscience team, working on meta-reinforcement learning and neuroscience-inspired artificial agents. Her background is in physics, complex systems, and computational and cognitive neuroscience.
-
 
 ## Eric Traut
 
@@ -73,16 +72,16 @@ layout: default
 | **Affiliation** | [University of Pennsylvania](http://kordinglab.com/) |
 | **Biography** | Konrad Kording is a professor of Neuroscience at the Perelman School of Medicine. Dr. Kording’s research has one single focus: data that matters. Early research in the lab focused on computational neuroscience and movement. But as the approaches matured, the focus has been on discovering ways in which new data sources and emerging data analysis can enable awesome possibilities. His lab current focuses on causality in data science applications.
 
-
 ## Amit Sharma
 
 | <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/avatar_user__1481003908-360x360.jpg" alt="Amit Sharma" height="250px" /> |
 
 | **Affiliation** | [Microsoft Research](https://www.microsoft.com/en-us/research/people/amshar/) |
 | **Biography** | Amit Sharma is a researcher at Microsoft Research India. From 2015-2017, he was a postdoctoral researcher at MSR New York working with Jake Hofman and Duncan Watts. Prior to that, he completed his Ph.D. in Computer Science at Cornell University and his undergraduate at IIT Kharagpur. His work has received a Best Paper Honorable Mention Award at the 2016 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), the 2012 Yahoo! Key Scientific Challenges Award and the 2009 Honda Young Engineer and Scientist Award.
+</div>
 
 <div id="Compositional" class="tabcontent">
-
+<br>
 - Compositional: 
     - [Brenden Lake (NI)](#brenden-lake), [Judith Fan(NI)](#judith-fan), [Kevin Ellis (AI)](#kevin-ellis)
     - Moderator: [Zenna Tavares](http://www.zenna.org/)
@@ -107,6 +106,7 @@ layout: default
 
 | **Affiliation** | [Cornell University](https://www.cs.cornell.edu/~ellisk/) |
 | **Biography** | Kevin Ellis is a computer scientist working in artificial intelligence and program synthesis, with the goal of better combining reasoning and learning. He is an assistant professor at Cornell in computer science. Previously he was a research scientist at Common Sense Machines between starting at Cornell and completing my PhD at MIT’s Department of Brain and Cognitive Sciences, where he was coadvised by Josh Tenenbaum and Armando Solar-Lezama.
+</div>
 
 <div id="Curiosity" class="tabcontent">
 <br>
@@ -134,6 +134,7 @@ layout: default
 
 | **Affiliation** | [Carnegie Mellon University](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/verstynen-timothy.html) |
 | **Biography** | Timothy Verstynen is an Associate Professor in Psychology and the Carnegie Mellon Neuroscience Institute with a courtesy appointment in Biomedical Engineering at CMU and the Learning Research and Development Center at the University of Pittsburgh. He is also Co-Director of the CMU-Pitt Brain Imaging Data Generation & Education (BRIDGE) Center. Professor Verstynen received his Bachelors in Psychology from the University of New Mexico and Ph.D. in Psychology from the University of California, Berkeley where he studied the neural mechanisms of complex hand movements. As a postdoctoral fellow at UCSF, he explored the computational mechanisms of fast adaptive priors in visually-guided reaching, followed by a second postdoctoral fellowship at the University of Pittsburgh, developing novel diffusion imaging approaches for mapping white matter pathways.
+</div>
 
 <div id="Constraints" class="tabcontent">
 <br>
@@ -168,6 +169,7 @@ layout: default
 
 | **Affiliation** | [Johns Hopkins University](https://engineering.jhu.edu/ece/faculty/etienne-cummings-ralph/) |
 | **Biography** | Ralph Etienne-Cummings received his B.Sc. in physics in 1988. He completed his M.S.E.E (’91) and PhD (’94) in electrical engineering at the University of Pennsylvania working at the interface of microelectronics and neuroscience. Currently, Prof. Etienne-Cummings is a Professor of Electrical and Computer Engineering and Computer Science at Johns Hopkins University. He was the founding director of the Institute of Neuromorphic Engineering. He has served as Chairman of various IEEE Circuits and Systems (CAS) Technical Committees and was elected as a member of CAS Board of Governors. He also serves on numerous editorial boards in his field. He is an IEEE and AIMBE Fellow, and the recipient of the NSF’s Career, Office of Naval Research YIP, and a Fulbright Awards, among various others, which include numerous publication awards.  Prof. Etienne-Cummings is an active entrepreneur in the neuroengineering space and holds numerous patents on this research.
+</div>
 
 <div id="GeneralI" class="tabcontent">
 <br>
@@ -195,6 +197,7 @@ layout: default
 
 | **Affiliation** | [Salk Institute for Biological Studies](salk.edu/scientist/terrence-sejnowski/) |
 | **Biography** | Terrence Joseph Sejnowski is the Francis Crick Professor at the Salk Institute for Biological Studies where he directs the Computational Neurobiology Laboratory and is the director of the Crick-Jacobs center for theoretical and computational biology. His research in neural networks and computational neuroscience has been pioneering. Sejnowski is also Professor of Biological Sciences and adjunct professor in the departments of neurosciences, psychology, cognitive science, computer science and engineering at the University of California, San Diego, where he is co-director of the Institute for Neural Computation.
+</div>
 
 <div id="GeneralII" class="tabcontent">
 <br>
