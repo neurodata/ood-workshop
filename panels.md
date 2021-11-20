@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Panels
-
+```html
 <div class="widget">
   
   <ol class="widget-list" id="general2">
@@ -24,17 +24,9 @@ layout: default
   <ol class="widget-list" id="compositional">
 
   </ol>
-    <ol class="widget-list" id="causal">
-    <ul>
-      <li>Causal:
-        <ul>
-        <li><a href="#susan-athey">Susan Athey (AI)</a>, <a href="#konrad-kording">Konrad Kording (NI)</a>, <a href="#amit-sharma">Amit Sharma (AI)</a></li>
-        <li>Moderator: <a href="https://www.microsoft.com/en-us/research/people/emrek/">Emre Kiciman</a></li>
-        </ul>
-    </li>
-    </ul>
+  <ol class="widget-list" id="causal">
+   
   </ol>
- 
   <ol class="widget-list" id="continual">
     <ul>
         <li>Continual:
@@ -124,12 +116,9 @@ layout: default
         </tr>
     </tbody>
     </table>
-
   </ol>
 
-
-
-  <ul class="widget-tabs">   
+<ul class="widget-tabs">   
     <li class="widget-tab">
       <a href="#general2" class="widget-tab-link">General Discussion 2</a></li>
     <li class="widget-tab">
@@ -146,3 +135,5 @@ layout: default
       <a href="#continual" class="widget-tab-link">Continual</a> </li>
   </ul>
 </div>
+
+```
