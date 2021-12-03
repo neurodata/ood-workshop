@@ -20,6 +20,11 @@ layout: default
 - Continual: 
     - [Jane Wang (NI)](#jane-wang), [Eric Traut (AI)](#eric-traut), [Sujeeth Bharadwaj (AI)](#sujeeth-bharadwaj), [Gabriel A Sliva (NI)](#gabriel-sliva)
     - Moderators: [Weiwei Yang](https://www.microsoft.com/en-us/research/)
+    - Time: Tue Dec 14th 2021 14:45 – 15:30  US/Eastern
+    - Topics for discussion:
+        1. How would you define continual learning?
+        2. What are the most important mechanisms that allow a system (biological, artificial or hybrid) to learn continuously? 
+        3. What is the future of AI?
 
 ## Jane Wang
 
@@ -261,5 +266,5 @@ layout: default
     // window.document.onload = function(e){ 
     //     openPanel(event, 'Continual');
     // }
-    setTimeout(function() { openPanel(event, 'Continual'); }, 5000);
+    setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
 </script>
