@@ -14,9 +14,7 @@ layout: default
   <button class="tablinks" onclick="openPanel(event, 'GeneralI')">General Discussion I</button>
   <button class="tablinks" onclick="openPanel(event, 'GeneralII')">General Discussion II</button>
 
-<script type="text/javascript">
-   openPanel(event, 'Continual');
-</script>
+<img src onerror="openPanel(event, 'Continual')">
 
 <!-- Tab content -->
 <div id="Continual" class="tabcontent active">
