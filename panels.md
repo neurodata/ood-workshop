@@ -62,6 +62,15 @@ layout: default
 - Causal: 
     - [Susan Athey (AI)](#susan-athey), [Konrad Kording (NI)](#konrad-kording), [Amit Sharma (AI)](#amit-sharma)
     - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
+    - Time:  Tue Dec 14th 2021 10:45 – 11:30  US/Eastern
+    - Topics for discussion: 
+        1. In everyday life, understanding the causal mechanics of the world around us seems to be -- at least at first glance --- incredibly intuitive to most people.  And yet, like many things that people find to be "common sense", understanding and capturing causality is also often surprisingly difficult to operationalize.  My first question for the panel --- could you say a few words about causality and its importance in your areas of study, what excites you, and what are the open challenges you see? 
+        2. Konrad ,  what are some of the things that people do well when reasoning about causality. What do we know about how we do that?
+        3. Susan, your work often involves policy setting and decision making where people must understand the mechanisms underlying a market, or other system.  Where do you see people making mistakes?  How do the formal analyses you work with complement people's cognitive abilities?
+        4. Amit, in your work integrating causal concepts into computing applications, what are the opportunities you see for new (biologically-inspired) models to have an impact on our algorithms and computing methods?
+        5. Each of you takes a broad cross-disciplinary approach in your research---re-reading through your backgrounds before the panel, I was reminded of the breadth of work here, spanning at least large segments of computer science, neuroscience, and social science.  With your perspectives at interdisciplinary boundaries, what are some of the key touchpoints that you see as opportunities at the intersection of natural and artificial intelligence?
+        6. Concluding thoughts?
+
 
 ## Susan Athey
 
@@ -91,6 +100,9 @@ layout: default
 - Compositional: 
     - [Brenden Lake (NI)](#brenden-lake), [Judith Fan(NI)](#judith-fan), [Kevin Ellis (AI)](#kevin-ellis), [Josh Tenenbaum (NI)](#josh-tenenbaum)
     - Moderator: [Zenna Tavares](http://www.zenna.org/)
+    - Time:  Tue Dec 14th 2021 11:45 - 12:30  US/Eastern
+    - Topics for discussion: 
+        1. 
 
 ## Brenden Lake
 
@@ -127,6 +139,12 @@ layout: default
 - Curiosity: 
     - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn), [Timothy Verstynen (NI)](#timothy-verstynen)
     - Moderator: [Jonathan Flowers](https://www.american.edu/cas/faculty/jflowers.cfm) 
+    - Time:  Tue Dec 14th 2021 14:00 – 14:45  US/Eastern
+    - Topics for discussion:
+        1: How do you define curiosity as it relates to Machine Learning and AI?
+        2: What, if any, is the value of developing a curious machine or AI?
+        3: How might we approach developing a curious AI?
+        4: What are some of the most challenging open problems?
 
 ## Celeste Kidd
 
@@ -156,6 +174,11 @@ layout: default
 - Constraints: 
     - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings (AI)](#ralph-etienne-cummings)
     - Moderator: [Soledad Villar](https://www.ams.jhu.edu/villar/)
+    - Time:  Tue Dec 14th 2021 10:00 – 10:45  US/Eastern
+    - Topics for discussion:
+        1. Learning with constraints in artificial intelligence (AI) and natural intelligence (NI): definition and examples
+        2. Benefits from constrained-based learning: data, energy, time
+        3. Experimental design of constrained-based learning in AI and NI
 
 ## Doug Burger
 
@@ -192,6 +215,13 @@ layout: default
 - General Discussion II: 
     - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
+    - Time:  Tue Dec 14th 2021 15:45 - 16:30  US/Eastern
+    - Topics for discussion:
+        1. What does the "Out of Distribution" (OOD) problem mean to you or your field?
+        2. Why is the OOD problem important?
+        3. What insights did you gain from previous work that might help with solving the OOD problem and successfully applying it to tackle real world challenges?
+        4. What do you think the ideal role of AI is in our life?
+        5. What set of achievements or breakthroughs need to happen to bridge the gap between ML's current role and its ideal role?
 
 ## Anima Anandkumar
 
@@ -221,6 +251,9 @@ layout: default
 - General Discussion I: 
     - [Yoshua Bengio (AI)](#yoshua-bengio), [Max Welling](#max-welling), [Leyla Isik](#leyla-isik)
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
+    - Time:  Tue Dec 14th 2021 09:15 – 10:00  US/Eastern
+    - Description: A panel discussion around what is Out of Distribution (OOD) problem and why is the OOD problem important?
+
 
 ## Yoshua Bengio
 
