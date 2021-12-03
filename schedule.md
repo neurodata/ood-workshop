@@ -18,6 +18,15 @@ This is the primary schedule of the workshop. All slots are provided in Pacific 
 |  <span style="font-family: monospace;"> </span> | <b>Live Q&A - Session 1</b> <i>(Live Q&A) </i>              |
 |  <span style="font-family: monospace;"> - 05:00 PM</span> | <b>Live Q&A - Session 2</b> <i>(Live Q&A)</i>     | -->
 
+| :             Header            : |||
+| :--------- | :-------- | :--------  |
+| A          | : A     : | A          \
+| B          |   B       | B         \
+| :   Rowspan is 4    : || How's it?  |
+|^^    A.               ||   1. Fine :|
+|^^    B.               ||^^ 2. Bad   |
+|^^    C.               ||  It's OK!  |
+
 | | | | ***Time(ET)*** | ***Panel Topic*** | ***Panelists*** | ***Moderators*** |
 | :Morning Session: || 9:00 am - 1:00 pm ET | 9:00 - 9:15 | 15 minutes | Introduction<br>Welcome Remarks | Weiwei Yang, Joshua Vogelstein, Soledad Villar, Emre Kiciman, Zenna Tavares, Johnathan Flowers, Teresa Huang, Kaleab Alemayehu, Ronan Perry | |
 | ^^ || ^^ | 9:15 - 10:00 | 45 minutes | General Discussion 1 | Yoshua Bengio, Max Welling, Leyla Lsik | Weiwei Yang, Joshua Vogelstein |
