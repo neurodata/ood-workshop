@@ -243,7 +243,7 @@ layout: default
 </div>
 
 <script type="text/javascript">
-    
+
     function openPanel(evt, panelName) {
         var i, tabcontent, tablinks;
         tabcontent = document.getElementsByClassName("tabcontent");
@@ -258,7 +258,8 @@ layout: default
         evt.currentTarget.className += " active";
     }
 
-    window.document.onload = function(e){ 
-        openPanel(event, 'Continual');
-    }
+    // window.document.onload = function(e){ 
+    //     openPanel(event, 'Continual');
+    // }
+    setTimeout(function() { openPanel(event, 'Continual'); }, 5000);
 </script>
