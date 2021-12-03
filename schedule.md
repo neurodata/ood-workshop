@@ -50,8 +50,7 @@ This is the primary schedule of the workshop. All slots are provided in Pacific 
       <td>9:00 - 9:15</td>
       <td>15 minutes</td>
       <td>Introduction<br />Welcome Remarks</td>
-      <td>Weiwei Yang, Joshua Vogelstein, Soledad Villar, Emre Kiciman, Zenna Tavares, Johnathan Flowers, Teresa Huang, Kaleab Alemayehu, Ronan Perry</td>
-      <td> </td>
+      <td colspan="2">Weiwei Yang, Joshua Vogelstein, Soledad Villar, Emre Kiciman, Zenna Tavares, Johnathan Flowers, Teresa Huang, Kaleab Alemayehu, Ronan Perry</td>
     </tr>
     <tr>
       <td>9:15 - 10:00</td>
@@ -89,7 +88,7 @@ This is the primary schedule of the workshop. All slots are provided in Pacific 
     <tr>
       <td>12:30 - 1:00</td>
       <td>30 minutes</td>
-      <td>Live Q&amp;A Part 1</td>
+      <td>Live Q&amp;A<br>Part 1</td>
       <td>Yoshua Bengio, Leyla Lsik, Ralph Etienne-Cummings, Konrad Kording, Amit Sharma, Sujeeth Bharadwaj</td>
       <td>Joshua Vogelstein, Weiwei Yang</td>
     </tr>
@@ -127,7 +126,7 @@ This is the primary schedule of the workshop. All slots are provided in Pacific 
     <tr>
       <td>4:30 - 5:00</td>
       <td>30 minutes</td>
-      <td>Live Q&amp;A Part 2</td>
+      <td>Live Q&amp;A<br>Part 2</td>
       <td>Yoshua Bengio, Susan Athey, Jane Wang, Anima Anandkumar, Emre Kiciman</td>
       <td>Weiwei Yang</td>
     </tr>
