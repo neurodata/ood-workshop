@@ -45,5 +45,6 @@ kramdown:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-spaceship
 
 exclude: ["README.md", "Gemfile", "Gemfile.lock"]
