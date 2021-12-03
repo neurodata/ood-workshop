@@ -5,7 +5,7 @@ layout: default
 # Invited Speakers
 <div style="width: 120%; margin-left: -80px">
 <!-- Tab links -->
-<div class="tab" onload="openPanel(event, 'Continual')">
+<div class="tab">
   <button class="tablinks" onclick="openPanel(event, 'Continual')">Continual</button>
   <button class="tablinks" onclick="openPanel(event, 'Causal')">Causal</button>
   <button class="tablinks" onclick="openPanel(event, 'Compositional')">Compositional</button>
@@ -14,6 +14,9 @@ layout: default
   <button class="tablinks" onclick="openPanel(event, 'GeneralI')">General Discussion I</button>
   <button class="tablinks" onclick="openPanel(event, 'GeneralII')">General Discussion II</button>
 
+<script type="text/javascript">
+   openPanel(event, 'Continual');
+</script>
 
 <!-- Tab content -->
 <div id="Continual" class="tabcontent active">

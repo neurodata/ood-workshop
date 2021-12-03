@@ -14,5 +14,5 @@ layout: default
 
 <br />
 
-|<img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/avatar_user_31739_1508794375-360x360.jpg" alt="Emre Kiciman" width="290"/>|
+|<img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/avatar_user_31739_1508794375-360x360.jpg" alt="Emre Kiciman" width="240"/>|
 |[Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)<br />Microsoft|
