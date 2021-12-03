@@ -5,7 +5,7 @@ layout: default
 # Invited Speakers
 <div style="width: 120%; margin-left: -80px">
 <!-- Tab links -->
-<div class="tab">
+<div class="tab" onload="openPanel(event, 'Continual')">
   <button class="tablinks" onclick="openPanel(event, 'Continual')">Continual</button>
   <button class="tablinks" onclick="openPanel(event, 'Causal')">Causal</button>
   <button class="tablinks" onclick="openPanel(event, 'Compositional')">Compositional</button>
@@ -85,7 +85,7 @@ layout: default
 <div id="Compositional" class="tabcontent">
 <br>
 - Compositional: 
-    - [Brenden Lake (NI)](#brenden-lake), [Judith Fan(NI)](#judith-fan), [Kevin Ellis (AI)](#kevin-ellis)
+    - [Brenden Lake (NI)](#brenden-lake), [Judith Fan(NI)](#judith-fan), [Kevin Ellis (AI)](#kevin-ellis), [Josh Tenenbaum (NI)](#josh-tenenbaum)
     - Moderator: [Zenna Tavares](http://www.zenna.org/)
 
 ## Brenden Lake
@@ -108,6 +108,13 @@ layout: default
 
 | **Affiliation** | [Cornell University](https://www.cs.cornell.edu/~ellisk/) |
 | **Biography** | Kevin Ellis is a computer scientist working in artificial intelligence and program synthesis, with the goal of better combining reasoning and learning. He is an assistant professor at Cornell in computer science. Previously he was a research scientist at Common Sense Machines between starting at Cornell and completing my PhD at MIT’s Department of Brain and Cognitive Sciences, where he was coadvised by Josh Tenenbaum and Armando Solar-Lezama.
+
+## Josh Tenenbaum
+
+| <img src="https://www.macfound.org/media/fellows/profile_photos/tenenbaum_2019_profile-240.jpg" alt="Josh Tenenbaum" height="250px" /> |
+
+| **Affiliation** | [Massachusetts Institute of Technology](http://web.mit.edu/cocosci/josh.html) |
+| **Biography** | Joshua Brett Tenenbaum (Josh Tenenbaum) is Professor of Computational Cognitive Science at the Massachusetts Institute of Technology. He is known for contributions to mathematical psychology and Bayesian cognitive science. He received his PhD from MIT in 1999, and taught at Stanford from 1999 to 2002. His long-term goal is to reverse-engineer intelligence in the human mind and brain, and use these insights to engineer more human-like machine intelligence. 
 
 </div>
 
@@ -176,9 +183,9 @@ layout: default
 
 </div>
 
-<div id="GeneralI" class="tabcontent">
+<div id="GeneralII" class="tabcontent">
 <br>
-- General Discussion I: 
+- General Discussion II: 
     - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
 
@@ -205,9 +212,9 @@ layout: default
 
 </div>
 
-<div id="GeneralII" class="tabcontent">
+<div id="GeneralI" class="tabcontent">
 <br>
-- General Discussion II: 
+- General Discussion I: 
     - [Yoshua Bengio (AI)](#yoshua-bengio), [Max Welling](#max-welling), [Leyla Isik](#leyla-isik)
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
 
