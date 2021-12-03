@@ -77,7 +77,7 @@ This is the primary schedule of the workshop. All slots are provided in Pacific 
     <tr>
       <td>11:00- 11:45</td>
       <td>15 minutes</td>
-      <td colspan="3">BREAK</td>
+      <td colspan="3" style="text-align:center">BREAK</td>
     </tr>
     <tr>
       <td>11:45 - 12:30</td>
@@ -94,7 +94,7 @@ This is the primary schedule of the workshop. All slots are provided in Pacific 
       <td>Joshua Vogelstein, Weiwei Yang</td>
     </tr>
     <tr>
-      <td colspan="7">BREAK</td>
+      <td colspan="7" style="text-align:center">BREAK</td>
     </tr>
     <tr>
       <td rowspan="5">Afternoon Session</td>
@@ -115,7 +115,7 @@ This is the primary schedule of the workshop. All slots are provided in Pacific 
     <tr>
       <td>3:30 - 3:45</td>
       <td>15 minutes</td>
-      <td colspan="3">BREAK</td>
+      <td colspan="3" style="text-align:center">BREAK</td>
     </tr>
     <tr>
       <td>3:45 - 4:30</td>
