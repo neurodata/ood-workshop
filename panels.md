@@ -140,10 +140,10 @@ layout: default
     - Moderator: [Jonathan Flowers](https://www.american.edu/cas/faculty/jflowers.cfm) 
     - Time:  Tue Dec 14th 2021 14:00 – 14:45  US/Eastern
     - Topics for discussion:
-        1: How do you define curiosity as it relates to Machine Learning and AI?
-        2: What, if any, is the value of developing a curious machine or AI?
-        3: How might we approach developing a curious AI?
-        4: What are some of the most challenging open problems?
+        1. How do you define curiosity as it relates to Machine Learning and AI?
+        2. What, if any, is the value of developing a curious machine or AI?
+        3. How might we approach developing a curious AI?
+        4. What are some of the most challenging open problems?
 
 ## Chelsea Finn
 
