@@ -4,7 +4,7 @@ layout: default
 
 # Schedule
 
-This is the primary schedule of the workshop. All slots are provided in Pacific Standard Time (PST) using a 12h format. Use [this time zone converter](https://www.thetimezoneconverter.com) to convert these times to your local time zone.
+This is the primary schedule of the workshop. All slots are provided in Eastern Standard Time (EST) using a 12h format. Use [this time zone converter](https://www.thetimezoneconverter.com) to convert these times to your local time zone.
 
 <!-- |  ***Time (PST)***   | ***Event***                  |
 |  <span style="font-family: monospace;">05:00 AM - </span> | <b>Intro</b> <i>(short intro)</i>                |
@@ -33,7 +33,7 @@ This is the primary schedule of the workshop. All slots are provided in Pacific 
 | ^^ | ^^ | 3:45 - 4:30|45 minutes|General Discussion 2|Anima Anandkumar, Chris White, Terry Sejnowski|Joshua Vogelstein, Weiwei Yang|
 | ^^ | ^^ | 4:30 - 5:00|30 minutes|Live Q&A Part 2|Yoshua Bengio, Susan Athey, Jane Wang, Anima Anandkumar, Emre Kiciman|Weiwei Yang| -->
 
-<table>
+<table style="width: 140%; margin-left: -140px;">
   <tbody>
     <tr>
       <td> </td>
@@ -67,14 +67,14 @@ This is the primary schedule of the workshop. All slots are provided in Pacific 
       <td>Soledad Villar, Teresa Huang</td>
     </tr>
     <tr>
-      <td>10:45 - 11:00</td>
+      <td>10:45 - 11:30</td>
       <td>45 minutes</td>
       <td>Causal</td>
       <td>Susan Athey, Konrad Kording, Amit Sharma</td>
       <td>Emre Kiciman</td>
     </tr>
     <tr>
-      <td>11:00- 11:45</td>
+      <td>11:30 – 11:45</td>
       <td>15 minutes</td>
       <td colspan="3" style="text-align:center">BREAK</td>
     </tr>

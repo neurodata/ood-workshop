@@ -62,7 +62,7 @@ layout: default
 - Causal: 
     - [Susan Athey (AI)](#susan-athey), [Konrad Kording (NI)](#konrad-kording), [Amit Sharma (AI)](#amit-sharma)
     - Moderator: [Emre Kiciman](https://www.microsoft.com/en-us/research/people/emrek/)
-    - Time:  Tue Dec 14th 2021 10:45 – 11:30  US/Eastern
+    - Time:  Tue Dec 14th 2021 10:45 - 11:30  US/Eastern
     - Topics for discussion: 
         1. In everyday life, understanding the causal mechanics of the world around us seems to be -- at least at first glance --- incredibly intuitive to most people.  And yet, like many things that people find to be "common sense", understanding and capturing causality is also often surprisingly difficult to operationalize.  My first question for the panel --- could you say a few words about causality and its importance in your areas of study, what excites you, and what are the open challenges you see? 
         2. Konrad ,  what are some of the things that people do well when reasoning about causality. What do we know about how we do that?
