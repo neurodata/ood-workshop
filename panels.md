@@ -18,27 +18,13 @@ layout: default
 <div id="Continual" class="tabcontent active">
 <br>
 - Continual: 
-    - [Jane Wang (NI)](#jane-wang), [Eric Traut (AI)](#eric-traut), [Sujeeth Bharadwaj (AI)](#sujeeth-bharadwaj), [Gabriel A Sliva (NI)](#gabriel-sliva)
+    - [Sujeeth Bharadwaj (AI)](#sujeeth-bharadwaj), [Gabriel A Sliva (NI)](#gabriel-sliva), [Eric Traut (AI)](#eric-traut), [Jane Wang (NI)](#jane-wang) 
     - Moderators: [Weiwei Yang](https://www.microsoft.com/en-us/research/)
     - Time: Tue Dec 14th 2021 14:45 – 15:30  US/Eastern
     - Topics for discussion:
         1. How would you define continual learning?
         2. What are the most important mechanisms that allow a system (biological, artificial or hybrid) to learn continuously? 
         3. What is the future of AI?
-
-## Jane Wang
-
-| <img src="https://images.squarespace-cdn.com/content/v1/555aab07e4b03e184ddaf731/1611494871677-IHJSDDSKS72SJVX4OTTQ/ke17ZwdGBToddI8pDm48kMsk0cDTD4GFmCoFaGRKmJFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHPs585J519qQ-VXT6i46DkwmeJ7jyRhTrpXvpS8Ta4fAPkD4V17zXFNDfMDewRsdI/Jane%2BWang-808cropped.jpg" alt="Jane Wang" height="250px" /> |
-
-| **Affiliation** | [DeepMind](http://www.janexwang.com/) |
-| **Biography** | Jane Wang is a research scientist at DeepMind on the neuroscience team, working on meta-reinforcement learning and neuroscience-inspired artificial agents. Her background is in physics, complex systems, and computational and cognitive neuroscience.
-
-## Eric Traut
-
-| <img src="https://static.wikia.nocookie.net/ipod/images/1/1f/Eric_Traut_2008.jpg" alt="Eric Traut" height="250px" /> |
-
-| **Affiliation** | [Microsoft](https://microsoft.fandom.com/wiki/Eric_Traut) |
-| **Biography** | Eric Traut is an American software engineer and software emulation pioneer. Traut graduated from Stanford University in 1992. From 1993 to 1995 he worked for Apple Computer, creating a Mac 68K emulator to be used in PowerPC-based Macintoshes.His work on this project led to a patent on a form of dynamic recompilation. Traut went on to join Connectix, where he developed successful commercial emulators such as Virtual PC and Virtual Game Station. He became Connectix's Chief Technical Officer in 2001. Traut became a Microsoft employee after the company purchased Connectix in 2003. Traut left Microsoft in late 2012. Traut rejoined Microsoft in May 2014 and is now a Technical Fellow.
 
 ## Sujeeth Bharadwaj
 
@@ -54,6 +40,19 @@ layout: default
 | **Affiliation** | [University of California, San Diego](http://www.silva.ucsd.edu/) |
 | **Biography** | Dr. Gabriel A. Silva is a Professor in the Department of Bioengineering and the Department of Neurosciences at the University of California San Diego. He holds a Jacobs Family Scholar in Engineering Endowed Chair, is the Founding Director of the Center for Engineered Natural Intelligence, and Associate Director of the Kavli Institute for Brain and Mind. He is an affiliated faculty member in the Department of NanoEngineering, and a faculty member in the BioCircuits Institute, the Neurosciences Graduate Program, Computational Neurobiology Program, and Institute for Neural Computation. Previously, Silva served as Vice Chair of the Department of Bioengineering, and was Co-Director of the Retinal Engineering Center in the Institute of Engineering in Medicine. As an Associate Professor he held the Jacobs Faculty Fellows Professor of Bioengineering. 
 
+## Eric Traut
+
+| <img src="https://static.wikia.nocookie.net/ipod/images/1/1f/Eric_Traut_2008.jpg" alt="Eric Traut" height="250px" /> |
+
+| **Affiliation** | [Microsoft](https://microsoft.fandom.com/wiki/Eric_Traut) |
+| **Biography** | Eric Traut is an American software engineer and software emulation pioneer. Traut graduated from Stanford University in 1992. From 1993 to 1995 he worked for Apple Computer, creating a Mac 68K emulator to be used in PowerPC-based Macintoshes.His work on this project led to a patent on a form of dynamic recompilation. Traut went on to join Connectix, where he developed successful commercial emulators such as Virtual PC and Virtual Game Station. He became Connectix's Chief Technical Officer in 2001. Traut became a Microsoft employee after the company purchased Connectix in 2003. Traut left Microsoft in late 2012. Traut rejoined Microsoft in May 2014 and is now a Technical Fellow.
+
+## Jane Wang
+
+| <img src="https://images.squarespace-cdn.com/content/v1/555aab07e4b03e184ddaf731/1611494871677-IHJSDDSKS72SJVX4OTTQ/ke17ZwdGBToddI8pDm48kMsk0cDTD4GFmCoFaGRKmJFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHPs585J519qQ-VXT6i46DkwmeJ7jyRhTrpXvpS8Ta4fAPkD4V17zXFNDfMDewRsdI/Jane%2BWang-808cropped.jpg" alt="Jane Wang" height="250px" /> |
+
+| **Affiliation** | [DeepMind](http://www.janexwang.com/) |
+| **Biography** | Jane Wang is a research scientist at DeepMind on the neuroscience team, working on meta-reinforcement learning and neuroscience-inspired artificial agents. Her background is in physics, complex systems, and computational and cognitive neuroscience.
 
 </div>
 
@@ -98,18 +97,18 @@ layout: default
 <div id="Compositional" class="tabcontent">
 <br>
 - Compositional: 
-    - [Brenden Lake (NI)](#brenden-lake), [Judith Fan(NI)](#judith-fan), [Kevin Ellis (AI)](#kevin-ellis), [Josh Tenenbaum (NI)](#josh-tenenbaum)
+    - [Kevin Ellis (AI)](#kevin-ellis), [Judith Fan(NI)](#judith-fan), [Brenden Lake (NI)](#brenden-lake), [Josh Tenenbaum (NI)](#josh-tenenbaum)
     - Moderator: [Zenna Tavares](http://www.zenna.org/)
     - Time:  Tue Dec 14th 2021 11:45 - 12:30  US/Eastern
     - Topics for discussion: 
         1. 
 
-## Brenden Lake
+## Kevin Ellis
 
-| <img src="https://cims.nyu.edu/~brenden/assets/img/brenden.jpg" alt="Brenden Lake" height="250px" /> |
+| <img src="https://www.cs.princeton.edu/sites/default/files/styles/embedded_image/public/uploads/kevin_ellis_headshot_0.jpg?itok=iGUkzscj" alt="Kevin Ellis" height="250px" /> |
 
-| **Affiliation** | [New York University / Facebook AI Research](https://cims.nyu.edu/~brenden/) |
-| **Biography** | Brenden is an Assistant Professor of Psychology and Data Science at New York University, and a Research Scientist at Facebook AI Research. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017. Brenden’s research focuses on computational problems that are easier for people than they are for machines, such as learning new concepts, compositional generalization, and question asking.
+| **Affiliation** | [Cornell University](https://www.cs.cornell.edu/~ellisk/) |
+| **Biography** | Kevin Ellis is a computer scientist working in artificial intelligence and program synthesis, with the goal of better combining reasoning and learning. He is an assistant professor at Cornell in computer science. Previously he was a research scientist at Common Sense Machines between starting at Cornell and completing my PhD at MIT’s Department of Brain and Cognitive Sciences, where he was coadvised by Josh Tenenbaum and Armando Solar-Lezama.
 
 ## Judith Fan
 
@@ -118,12 +117,12 @@ layout: default
 | **Affiliation** | [University of California, San Diego](https://psychology.ucsd.edu/people/profiles/jefan.html) |
 | **Biography** | Judith is an Assistant Professor of Psychology at UC San Diego. Her research addresses questions at the intersection of cognitive science, computational neuroscience, and AI. As a central case study, her lab's recent investigations focus on human visual communication, which encompasses behaviors ranging from informal sketching to formal scientific visualization and its applications in education, user interface design, and assistive technologies. Her goal in building computational models of such behaviors is to understand how perception, memory, motor planning, and social cognition functionally interact in the brain, leading to a more unified understanding of how multiple cognitive systems are coordinated during complex, natural behaviors.
 
-## Kevin Ellis
+## Brenden Lake
 
-| <img src="https://www.cs.princeton.edu/sites/default/files/styles/embedded_image/public/uploads/kevin_ellis_headshot_0.jpg?itok=iGUkzscj" alt="Kevin Ellis" height="250px" /> |
+| <img src="https://cims.nyu.edu/~brenden/assets/img/brenden.jpg" alt="Brenden Lake" height="250px" /> |
 
-| **Affiliation** | [Cornell University](https://www.cs.cornell.edu/~ellisk/) |
-| **Biography** | Kevin Ellis is a computer scientist working in artificial intelligence and program synthesis, with the goal of better combining reasoning and learning. He is an assistant professor at Cornell in computer science. Previously he was a research scientist at Common Sense Machines between starting at Cornell and completing my PhD at MIT’s Department of Brain and Cognitive Sciences, where he was coadvised by Josh Tenenbaum and Armando Solar-Lezama.
+| **Affiliation** | [New York University / Facebook AI Research](https://cims.nyu.edu/~brenden/) |
+| **Biography** | Brenden is an Assistant Professor of Psychology and Data Science at New York University, and a Research Scientist at Facebook AI Research. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017. Brenden’s research focuses on computational problems that are easier for people than they are for machines, such as learning new concepts, compositional generalization, and question asking.
 
 ## Josh Tenenbaum
 
@@ -137,7 +136,7 @@ layout: default
 <div id="Curiosity" class="tabcontent">
 <br>
 - Curiosity: 
-    - [Celeste Kidd (NI)](#celeste-kidd), [Chelsea Finn (AI)](#chelsea-finn), [Timothy Verstynen (NI)](#timothy-verstynen)
+    - [Chelsea Finn (AI)](#chelsea-finn), [Celeste Kidd (NI)](#celeste-kidd), [Timothy Verstynen (NI)](#timothy-verstynen)
     - Moderator: [Jonathan Flowers](https://www.american.edu/cas/faculty/jflowers.cfm) 
     - Time:  Tue Dec 14th 2021 14:00 – 14:45  US/Eastern
     - Topics for discussion:
@@ -146,19 +145,19 @@ layout: default
         3: How might we approach developing a curious AI?
         4: What are some of the most challenging open problems?
 
-## Celeste Kidd
-
-| <img src="https://psychology.berkeley.edu/sites/default/files/styles/300x300sc/public/people/cropped-celestekidd.jpg" alt="Celeste Kidd" height="250px" /> |
-
-| **Affiliation** | [University of California, Berkeley](https://psychology.berkeley.edu/people/celeste-kidd) |
-| **Biography** | Celeste Kidd is a professor of psychology at the University of California, Berkeley. She was amongst the Silence Breakers who were named Time Person of the Year in 2017. She uses a blend of computational models and behavioral experiments to study the core cognitive systems that people use to guide their learning—including attention, curiosity, and metacognition.
-
 ## Chelsea Finn
 
 | <img src="https://ai.stanford.edu/~cbfinn/_files/ChelseaFinn_hires.jpg" alt="Chelsea Finn" height="250px" /> |
 
 | **Affiliation** | [Stanford University](https://ai.stanford.edu/~cbfinn/) |
 | **Biography** | Chelsea Finn is an Assistant Professor in Computer Science and Electrical Engineering at Stanford University. Professor Finn's research interests lie in the ability to enable robots and other agents to develop broadly intelligent behavior through learning and interaction. Her work lies at the intersection of machine learning and robotic control, including topics such as end-to-end learning of visual perception and robotic manipulation skills, deep reinforcement learning of general skills from autonomously collected experience, and meta-learning algorithms that can enable fast learning of new concepts and behaviors.
+
+## Celeste Kidd
+
+| <img src="https://psychology.berkeley.edu/sites/default/files/styles/300x300sc/public/people/cropped-celestekidd.jpg" alt="Celeste Kidd" height="250px" /> |
+
+| **Affiliation** | [University of California, Berkeley](https://psychology.berkeley.edu/people/celeste-kidd) |
+| **Biography** | Celeste Kidd is a professor of psychology at the University of California, Berkeley. She was amongst the Silence Breakers who were named Time Person of the Year in 2017. She uses a blend of computational models and behavioral experiments to study the core cognitive systems that people use to guide their learning—including attention, curiosity, and metacognition.
 
 ## Timothy Verstynen
 
@@ -172,7 +171,7 @@ layout: default
 <div id="Constraints" class="tabcontent">
 <br>
 - Constraints: 
-    - [Doug Burger (AI)](#doug-burger), [Alysson Muotri (NI)](#alysson-muotri), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings (AI)](#ralph-etienne-cummings)
+    - [Doug Burger (AI)](#doug-burger), [Florian Engert (NI)](#florian-engert), [Ralph Etienne-Cummings (AI)](#ralph-etienne-cummings), [Alysson Muotri (NI)](#alysson-muotri)
     - Moderator: [Soledad Villar](https://www.ams.jhu.edu/villar/)
     - Time:  Tue Dec 14th 2021 10:00 – 10:45  US/Eastern
     - Topics for discussion:
@@ -186,13 +185,6 @@ layout: default
 
 | **Affiliation** | [Microsoft Research / University of Texas-Austin](https://psychology.berkeley.edu/people/celeste-kidd) |
 | **Biography** | Doug Burger is one of the world’s leading active researchers in computer architecture, with a broad set of important contributions to his credit. After receiving his PhD from University of Wisconsin in 1998, he joined UT Austin as a professor, receiving tenure in 2004 and becoming a full professor in 2008. His work on Explicit Data Graph Computing (EDGE) represents the fourth major class of instruction-set architectures (after CISC, RISC, and VLIW). At U. Texas, he co-led the project that conceived and built the TRIPS processor, an ambitious multicore ASIC and working EDGE system, which remains one of the most complex microprocessor prototypes ever built in academia. 
-
-## Alysson Muotri
-
-| <img src="https://medschool.ucsd.edu/som/pediatrics/research/labs/muotri-lab/PublishingImages/Alysson_Muotri%20copy.jpg" alt="Alysson Muotri" height="250px" /> |
-
-| **Affiliation** | [University of California, San Diego](https://medschool.ucsd.edu/som/pediatrics/research/labs/muotri-lab/Pages/default.aspx) |
-| **Biography** | ​​Dr. Muotri is a professor at the Departments of Pediatrics and Cellular & Molecular Medicine at UC San Diego. He is also the Director of the Stem Cell Program and Archealization Center. Dr. Muotri earned a BSc in Biological Sciences from the State University of Campinas in 1995 and a Ph.D. in Genetics in 2001 from University of Sao Paulo, in Brazil. He moved to the Salk Institute as Pew Latin America Fellow in 2002 for a postdoctoral training in the fields of neuroscience and stem cell biology. His research focuses on brain evolution and modeling neurological diseases using human induced pluripotent stem cells and brain organoids. He has received several awards, including the prestigious NIH Director’s New Innovator Award, NARSAD, Emerald Foundation Young Investigator Award, Surugadai Award, Rock Star of Innovation, NIH EUREKA Award, Telly Awards among several others.
 
 ## Florian Engert
 
@@ -208,12 +200,19 @@ layout: default
 | **Affiliation** | [Johns Hopkins University](https://engineering.jhu.edu/ece/faculty/etienne-cummings-ralph/) |
 | **Biography** | Ralph Etienne-Cummings received his B.Sc. in physics in 1988. He completed his M.S.E.E (’91) and PhD (’94) in electrical engineering at the University of Pennsylvania working at the interface of microelectronics and neuroscience. Currently, Prof. Etienne-Cummings is a Professor of Electrical and Computer Engineering and Computer Science at Johns Hopkins University. He was the founding director of the Institute of Neuromorphic Engineering. He has served as Chairman of various IEEE Circuits and Systems (CAS) Technical Committees and was elected as a member of CAS Board of Governors. He also serves on numerous editorial boards in his field. He is an IEEE and AIMBE Fellow, and the recipient of the NSF’s Career, Office of Naval Research YIP, and a Fulbright Awards, among various others, which include numerous publication awards.  Prof. Etienne-Cummings is an active entrepreneur in the neuroengineering space and holds numerous patents on this research.
 
+## Alysson Muotri
+
+| <img src="https://medschool.ucsd.edu/som/pediatrics/research/labs/muotri-lab/PublishingImages/Alysson_Muotri%20copy.jpg" alt="Alysson Muotri" height="250px" /> |
+
+| **Affiliation** | [University of California, San Diego](https://medschool.ucsd.edu/som/pediatrics/research/labs/muotri-lab/Pages/default.aspx) |
+| **Biography** | ​​Dr. Muotri is a professor at the Departments of Pediatrics and Cellular & Molecular Medicine at UC San Diego. He is also the Director of the Stem Cell Program and Archealization Center. Dr. Muotri earned a BSc in Biological Sciences from the State University of Campinas in 1995 and a Ph.D. in Genetics in 2001 from University of Sao Paulo, in Brazil. He moved to the Salk Institute as Pew Latin America Fellow in 2002 for a postdoctoral training in the fields of neuroscience and stem cell biology. His research focuses on brain evolution and modeling neurological diseases using human induced pluripotent stem cells and brain organoids. He has received several awards, including the prestigious NIH Director’s New Innovator Award, NARSAD, Emerald Foundation Young Investigator Award, Surugadai Award, Rock Star of Innovation, NIH EUREKA Award, Telly Awards among several others.
+
 </div>
 
 <div id="GeneralII" class="tabcontent">
 <br>
 - General Discussion II: 
-    - [Anima Anandkumar (AI)](#anima-anandkumar), [Chris White (AI)](#chris-white), [Terry Sejnowski (NI)](#terry-sejnowski), 
+    - [Anima Anandkumar (AI)](#anima-anandkumar), [Terry Sejnowski (NI)](#terry-sejnowski), [Chris White (AI)](#chris-white)
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
     - Time:  Tue Dec 14th 2021 15:45 - 16:30  US/Eastern
     - Topics for discussion:
@@ -230,13 +229,6 @@ layout: default
 | **Affiliation** | [Caltech / NVIDIA](salk.edu/scientist/terrence-sejnowski/) |
 | **Biography** | Anima Anandkumar holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At NVIDIA, she is leading the research group that develops next-generation AI algorithms. At Caltech, she is the co-director of Dolcit and co-leads the AI4science initiative.
 
-## Chris White
-
-| <img src="https://www.microsoft.com/en-us/research/uploads/prod/2020/12/chwh_headshot-2.jpg" alt="Chris White" height="250px" /> |
-
-| **Affiliation** | [Microsoft](https://www.microsoft.com/en-us/research/people/chwh/) |
-| **Biography** | Chris White is Managing Director, Special Projects. He leads mission-oriented research and software development teams focusing on high risk problems. Chris has a background in EE, with a PhD in machine learning for speech and language from Johns Hopkins. He was a Fellow at Harvard for graph statistics and machine learning before spending time in the field. He served as chief data officer for DARPA in Afghanistan, and then as country lead with oversight of all battlefield research programs. Upon return, his DARPA programs invested hundreds of millions of dollars into open source software. His work has been applied to countering human trafficking, financial fraud, and terrorism, and has received awards from the White House, Defense, and Treasury departments. In 2016 President Obama awarded him a Presidential Medal for Extraordinary Efforts to Combat Trafficking in Persons. Since coming to Microsoft Research, he’s worked in Special Projects helping build multiple disruptive technologies before becoming Managing Director.
-
 ## Terry Sejnowski
 
 | <img src="https://www.salk.edu/wp-content/uploads/2015/10/Sejnowski-Web.jpg" alt="Terry Sejnowski" height="250px" /> |
@@ -244,12 +236,19 @@ layout: default
 | **Affiliation** | [Salk Institute for Biological Studies](salk.edu/scientist/terrence-sejnowski/) |
 | **Biography** | Terrence Joseph Sejnowski is the Francis Crick Professor at the Salk Institute for Biological Studies where he directs the Computational Neurobiology Laboratory and is the director of the Crick-Jacobs center for theoretical and computational biology. His research in neural networks and computational neuroscience has been pioneering. Sejnowski is also Professor of Biological Sciences and adjunct professor in the departments of neurosciences, psychology, cognitive science, computer science and engineering at the University of California, San Diego, where he is co-director of the Institute for Neural Computation.
 
+## Chris White
+
+| <img src="https://www.microsoft.com/en-us/research/uploads/prod/2020/12/chwh_headshot-2.jpg" alt="Chris White" height="250px" /> |
+
+| **Affiliation** | [Microsoft](https://www.microsoft.com/en-us/research/people/chwh/) |
+| **Biography** | Chris White is Managing Director, Special Projects. He leads mission-oriented research and software development teams focusing on high risk problems. Chris has a background in EE, with a PhD in machine learning for speech and language from Johns Hopkins. He was a Fellow at Harvard for graph statistics and machine learning before spending time in the field. He served as chief data officer for DARPA in Afghanistan, and then as country lead with oversight of all battlefield research programs. Upon return, his DARPA programs invested hundreds of millions of dollars into open source software. His work has been applied to countering human trafficking, financial fraud, and terrorism, and has received awards from the White House, Defense, and Treasury departments. In 2016 President Obama awarded him a Presidential Medal for Extraordinary Efforts to Combat Trafficking in Persons. Since coming to Microsoft Research, he’s worked in Special Projects helping build multiple disruptive technologies before becoming Managing Director.
+
 </div>
 
 <div id="GeneralI" class="tabcontent">
 <br>
 - General Discussion I: 
-    - [Yoshua Bengio (AI)](#yoshua-bengio), [Max Welling](#max-welling), [Leyla Isik](#leyla-isik)
+    - [Yoshua Bengio (AI)](#yoshua-bengio), [Leyla Isik](#leyla-isik), [Max Welling](#max-welling)
     - Moderators: [Joshua Vogelstein](http://jovo.me/), [Weiwei Yang](https://www.microsoft.com/en-us/research/people/weiwya/)
     - Time:  Tue Dec 14th 2021 09:15 – 10:00  US/Eastern
     - Description: A panel discussion around what is Out of Distribution (OOD) problem and why is the OOD problem important?
@@ -262,19 +261,19 @@ layout: default
 | **Affiliation** | [Mila – Quebec AI Institute](https://yoshuabengio.org/) |
 | **Biography** | Recognized worldwide as one of the leading experts in artificial intelligence, Yoshua Bengio is most known for his pioneering work in deep learning, earning him the 2018 A.M. Turing Award, “the Nobel Prize of Computing,” with Geoffrey Hinton and Yann LeCun. He is a Full Professor at Université de Montréal, and the Founder and Scientific Director of Mila – Quebec AI Institute. He co-directs the CIFAR Learning in Machines & Brains program as Senior Fellow and acts as Scientific Director of IVADO.
 
-## Max Welling
-
-| <img src="https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Max-Welling_0633-LR-small.jpg" alt="Max Welling" height="250px" /> |
-
-| **Affiliation** | [University of Amsterdam, Microsoft Research](https://staff.fnwi.uva.nl/m.welling/) |
-| **Biography** | Prof. Dr. Max Welling is a research chair in Machine Learning at the University of Amsterdam and a Distinguished Scientist at MSR. He is a fellow at the Canadian Institute for Advanced Research (CIFAR) and the European Lab for Learning and Intelligent Systems (ELLIS) where he also serves on the founding board. His previous appointments include VP at Qualcomm Technologies, professor at UC Irvine, postdoc at U. Toronto and UCL under supervision of prof. Geoffrey Hinton, and postdoc at Caltech under supervision of prof. Pietro Perona. He finished his PhD in theoretical high energy physics under supervision of Nobel laureate prof. Gerard ‘t Hooft.
-
 ## Leyla Isik
 
 | <img src="https://krieger.jhu.edu/cogsci/wp-content/uploads/sites/70/2018/05/Isik_headshot_crop.jpg" alt="Leyla Isik" height="250px" /> |
 
 | **Affiliation** | [Johns Hopkins University](https://cogsci.jhu.edu/directory/leyla-isik/) |
 | **Biography** | Leyla is the Clare Boothe Luce Assistant Professor of Cognitive Science at Johns Hopkins University, and holds a secondary appointment in the department of Biomedical Engineering. Before joining JHU, Leyla was a postdoc at MIT and Harvard in the Center for Brains, Minds, and Machines, where she worked with Nancy Kanwisher and Gabriel Kreiman. She received her PhD from MIT where she was advised by Tomaso Poggio, and was an undergraduate right here at JHU. 
+
+## Max Welling
+
+| <img src="https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Max-Welling_0633-LR-small.jpg" alt="Max Welling" height="250px" /> |
+
+| **Affiliation** | [University of Amsterdam, Microsoft Research](https://staff.fnwi.uva.nl/m.welling/) |
+| **Biography** | Prof. Dr. Max Welling is a research chair in Machine Learning at the University of Amsterdam and a Distinguished Scientist at MSR. He is a fellow at the Canadian Institute for Advanced Research (CIFAR) and the European Lab for Learning and Intelligent Systems (ELLIS) where he also serves on the founding board. His previous appointments include VP at Qualcomm Technologies, professor at UC Irvine, postdoc at U. Toronto and UCL under supervision of prof. Geoffrey Hinton, and postdoc at Caltech under supervision of prof. Pietro Perona. He finished his PhD in theoretical high energy physics under supervision of Nobel laureate prof. Gerard ‘t Hooft.
 
 </div>
 
