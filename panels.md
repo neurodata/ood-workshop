@@ -6,7 +6,7 @@ layout: default
 <div style="width: 120%; margin-left: -80px">
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openPanel(event, 'Continual')">Continual</button>
+  <button class="tablinks active" onclick="openPanel(event, 'Continual')">Continual</button>
   <button class="tablinks" onclick="openPanel(event, 'Causal')">Causal</button>
   <button class="tablinks" onclick="openPanel(event, 'Compositional')">Compositional</button>
   <button class="tablinks" onclick="openPanel(event, 'Curiosity')">Curiosity</button>
@@ -15,7 +15,7 @@ layout: default
   <button class="tablinks" onclick="openPanel(event, 'GeneralII')">General Discussion II</button>
 
 <!-- Tab content -->
-<div id="Continual" class="tabcontent active">
+<div id="Continual" class="tabcontent">
 <br>
 - Continual: 
     - [Sujeeth Bharadwaj (AI)](#sujeeth-bharadwaj), [Gabriel A Sliva (NI)](#gabriel-sliva), [Eric Traut (AI)](#eric-traut), [Jane Wang (NI)](#jane-wang) 
