@@ -6,7 +6,7 @@ layout: default
 <div style="width: 120%; margin-left: -80px">
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks active" onclick="openPanel(event, 'Continual')">Continual</button>
+  <button id="first_tab" class="tablinks active" onclick="openPanel(event, 'Continual')">Continual</button>
   <button class="tablinks" onclick="openPanel(event, 'Causal')">Causal</button>
   <button class="tablinks" onclick="openPanel(event, 'Compositional')">Compositional</button>
   <button class="tablinks" onclick="openPanel(event, 'Curiosity')">Curiosity</button>
@@ -299,4 +299,5 @@ layout: default
     //     openPanel(event, 'Continual');
     // }
     setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
+    document.getElementById('first_tab').className += " active";
 </script>
