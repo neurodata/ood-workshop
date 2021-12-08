@@ -102,7 +102,7 @@ This is the primary schedule of the workshop. All slots are provided in Eastern 
       <td>45 minutes</td>
       <td>Curiosity</td>
       <td>Celeste Kidd, Chelsea Finn, Timothy Verstynen</td>
-      <td>Johnathan Flowers, Kaleab Kinfu</td>
+      <td>Johnathan Flowers,<br>Kaleab Kinfu</td>
     </tr>
     <tr>
       <td>2:45 - 3:30</td>
