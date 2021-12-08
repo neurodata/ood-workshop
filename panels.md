@@ -307,10 +307,10 @@ layout: default
     var tabID = panelName + "_tab"
     if (typeof panelName !== "undefined") {
         openPanel(event, panelName);
-        document.getElementById(tabID).className += " active";
+        setTimeout(function() { document.getElementById(tabID).className += " active"; }, 1000);
+        
     } else {
-        // setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
-        openPanel(event, 'Continual');
+        setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
         document.getElementById('Continual_tab').className += " active";
     }
     
