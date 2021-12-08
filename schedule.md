@@ -102,7 +102,7 @@ This is the primary schedule of the workshop. All slots are provided in Eastern 
       <td>45 minutes</td>
       <td>Curiosity</td>
       <td>Celeste Kidd, Chelsea Finn, Timothy Verstynen</td>
-      <td>Johnathan Flowers</td>
+      <td>Johnathan Flowers, Kaleab Kinfu</td>
     </tr>
     <tr>
       <td>2:45 - 3:30</td>
@@ -128,7 +128,7 @@ This is the primary schedule of the workshop. All slots are provided in Eastern 
       <td>30 minutes</td>
       <td>Live Q&amp;A<br>Part 2</td>
       <td>Yoshua Bengio, Susan Athey, Jane Wang, Anima Anandkumar, Emre Kiciman</td>
-      <td>Weiwei Yang</td>
+      <td>Joshua Vogelstein, Weiwei Yang</td>
     </tr>
   </tbody>
 </table>
