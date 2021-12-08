@@ -293,6 +293,9 @@ layout: default
         }
         document.getElementById(panelName).style.display = "block";
         evt.currentTarget.className += " active";
+        var url_string = window.location.href
+        var url = new URL(url_string);
+        url.searchParams.set('p', panelName);
     }
 
     // window.document.onload = function(e){ 
@@ -305,18 +308,12 @@ layout: default
     var url = new URL(url_string);
     var panelName = url.searchParams.get("p");
     var tabID = panelName + "_tab"
-    if (typeof panelName !== "undefined") {
-        // document.getElementById(tabID).className += " active";
-        // openPanel(event, panelName);
+    if (panelName != null) {
         document.getElementById(tabID).dispatchEvent(
           new Event('click', { bubbles:true }))
-        
     } else {
-        // document.getElementById('Continual_tab').className += " active";
-        // setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
         document.getElementById('Continual_tab').dispatchEvent(
           new Event('click', { bubbles:true }))
-        
     }
     // }
     
