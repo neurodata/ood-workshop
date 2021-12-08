@@ -306,13 +306,16 @@ layout: default
     var panelName = url.searchParams.get("p");
     var tabID = panelName + "_tab"
     if (typeof panelName !== "undefined") {
-        document.getElementById(tabID).className += " active";
-        openPanel(event, panelName);
+        // document.getElementById(tabID).className += " active";
+        // openPanel(event, panelName);
+        document.getElementById(tabID).dispatchEvent(
+          new Event('click', { bubbles:true }))
         
     } else {
-        document.getElementById('Continual_tab').className += " active";
-        openPanel(event, 'Continual');
-        // setTimeout(function() {  }, 1000);
+        // document.getElementById('Continual_tab').className += " active";
+        // setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
+        document.getElementById('Continual_tab').dispatchEvent(
+          new Event('click', { bubbles:true }))
         
     }
     // }
