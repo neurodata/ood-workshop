@@ -298,6 +298,20 @@ layout: default
     // window.document.onload = function(e){ 
     //     openPanel(event, 'Continual');
     // }
-    setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
-    document.getElementById('first_tab').className += " active";
+    // setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
+    // document.getElementById('first_tab').className += " active";
+
+    var url_string = window.location.href
+    var url = new URL(url_string);
+    var panelName = url.searchParams.get("p");
+    if panelName {
+        openPanel(event, panelName);
+        // document.getElementById('first_tab').className += " active";
+    } else {
+        setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
+        document.getElementById('first_tab').className += " active";
+
+    }
+    
+
 </script>
