@@ -296,7 +296,7 @@ layout: default
     }
 
     // window.document.onload = function(e){ 
-    //     openPanel(event, 'Continual');
+    //     openPanel(e, 'Continual');
     // }
     // setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
     // document.getElementById('first_tab').className += " active";
@@ -304,13 +304,13 @@ layout: default
     var url_string = window.location.href
     var url = new URL(url_string);
     var panelName = url.searchParams.get("p");
-    if panelName {
+    console.log(panelName)
+    if (typeof panelName !== "undefined") {
         openPanel(event, panelName);
         // document.getElementById('first_tab').className += " active";
     } else {
         setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
         document.getElementById('first_tab').className += " active";
-
     }
     
 
