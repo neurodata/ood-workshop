@@ -6,13 +6,13 @@ layout: default
 <div style="width: 120%; margin-left: -80px">
 <!-- Tab links -->
 <div class="tab">
-  <button id="first_tab" class="tablinks active" onclick="openPanel(event, 'Continual')">Continual</button>
-  <button class="tablinks" onclick="openPanel(event, 'Causal')">Causal</button>
-  <button class="tablinks" onclick="openPanel(event, 'Compositional')">Compositional</button>
-  <button class="tablinks" onclick="openPanel(event, 'Curiosity')">Curiosity</button>
-  <button class="tablinks" onclick="openPanel(event, 'Constraints')">Constraints</button>
-  <button class="tablinks" onclick="openPanel(event, 'GeneralI')">General Discussion I</button>
-  <button class="tablinks" onclick="openPanel(event, 'GeneralII')">General Discussion II</button>
+  <button id="Continual_tab" class="tablinks active" onclick="openPanel(event, 'Continual')">Continual</button>
+  <button id="Causal_tab" class="tablinks" onclick="openPanel(event, 'Causal')">Causal</button>
+  <button id="Compositional_tab" class="tablinks" onclick="openPanel(event, 'Compositional')">Compositional</button>
+  <button id="Curiosity_tab" class="tablinks" onclick="openPanel(event, 'Curiosity')">Curiosity</button>
+  <button id="Constraints_tab" class="tablinks" onclick="openPanel(event, 'Constraints')">Constraints</button>
+  <button id="GeneralI_tab" class="tablinks" onclick="openPanel(event, 'GeneralI')">General Discussion I</button>
+  <button id="GeneralII_tab" class="tablinks" onclick="openPanel(event, 'GeneralII')">General Discussion II</button>
 
 <!-- Tab content -->
 <div id="Continual" class="tabcontent">
@@ -304,13 +304,14 @@ layout: default
     var url_string = window.location.href
     var url = new URL(url_string);
     var panelName = url.searchParams.get("p");
-    console.log(panelName)
+    var tabID = panelName + "_tab"
     if (typeof panelName !== "undefined") {
         openPanel(event, panelName);
-        // document.getElementById('first_tab').className += " active";
+        document.getElementById(tabID).className += " active";
     } else {
-        setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
-        document.getElementById('first_tab').className += " active";
+        // setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
+        openPanel(event, 'Continual');
+        document.getElementById('Continual_tab').className += " active";
     }
     
 
