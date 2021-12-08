@@ -308,7 +308,7 @@ layout: default
     var url = new URL(url_string);
     var panelName = url.searchParams.get("p");
     var tabID = panelName + "_tab"
-    if (panelName != null) {
+    if (panelName != null || panelName != '') {
         document.getElementById(tabID).dispatchEvent(
           new Event('click', { bubbles:true }))
     } else {
