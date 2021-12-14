@@ -33,11 +33,9 @@ This is the primary schedule of the workshop. All slots are provided in Eastern 
 | ^^ | ^^ | 3:45 - 4:30|45 minutes|General Discussion 2|Anima Anandkumar, Chris White, Terry Sejnowski|Joshua Vogelstein, Weiwei Yang|
 | ^^ | ^^ | 4:30 - 5:00|30 minutes|Live Q&A Part 2|Yoshua Bengio, Susan Athey, Jane Wang, Anima Anandkumar, Emre Kiciman|Weiwei Yang| -->
 
-<table style="width: 140%; margin-left: -140px;">
+<table>
   <tbody>
-    <tr>
-      <td> </td>
-      <td> </td>
+    <tr>  
       <td> </td>
       <td><strong><em>Time(ET)</em></strong></td>
       <td><strong><em>Panel Topic</em></strong></td>
@@ -45,50 +43,56 @@ This is the primary schedule of the workshop. All slots are provided in Eastern 
       <td><strong><em>Moderators</em></strong></td>
     </tr>
     <tr>
-      <td rowspan="4">Morning Session</td>
-      <td rowspan="4">9:00 am - 1:00 pm ET</td>
-      <td>9:00 - 9:15</td>
+      <td>9:00 a.m.  - 9:15 a.m.</td>
       <td>15 minutes</td>
-      <td>Introduction<br />Welcome Remarks</td>
+      <td>Introduction<br>Welcome Remarks</td>
       <td colspan="2">Weiwei Yang, Joshua Vogelstein, Soledad Villar, Emre Kiciman, Zenna Tavares, Johnathan Flowers, Teresa Huang, Kaleab Alemayehu, Ronan Perry</td>
     </tr>
     <tr>
-      <td>9:15 - 15:00</td>
+      <td>9:15 a.m. - 10:15 a.m.</td>
       <td>60 minutes</td>
       <td>General Discussion 1 - What is out of distribution (OOD) generalization and why is it important?</td>
       <td>Yoshua Bengio, Max Welling, Leyla Lsik</td>
       <td>Weiwei Yang, Joshua Vogelstein</td>
     </tr>
+<tr>
+      <td>10:15 a.m. - 10:30 a.m.</td>
+      <td>15 minutes</td>
+      <td colspan="3" style="text-align:center">BREAK</td>
+    </tr>
     <tr>
-      <td>10:30 - 11:00</td>
+      <td>10:30 a.m. - 11:00 a.m.</td>
       <td>30 minutes</td>
       <td>Live Q&amp;A Session 1</td>
       <td>Yoshua Bengio, Sujeeth Bharadwaj, Ralph Etienne-Cummings, Leyla Isik, Konrad Kording, Bernhard Scholkopf, Amit Sharma</td>
       <td>Joshua Vogelstein, Weiwei Yang</td>
     </tr>
     <tr>
-      <td>11:30 - 1:00</td>
-      <td>30 minutes</td>
+      <td>11:00 a.m. - 1:00 p.m.</td>
+      <td>120 minutes</td>
       <td>Extended Live Q&amp;A Session and Learning Salong</td>
       <td>Joshua Vogelstein</td>
       <td>Joshua Vogelstein</td>
     </tr>
+<tr>
+      <td>1:00 p.m. - 1:30 p.m.</td>
+      <td>30 minutes</td>
+      <td colspan="3" style="text-align:center">BREAK</td>
+    </tr>
     <tr>
-      <td rowspan="3">Afternoon Session</td>
-      <td rowspan="3">1:30 pm - 3:20 pm ET</td>
-      <td>13:30 - 14:30</td>
+      <td>1:30 p.m. - 2:30 p.m.</td>
       <td>60 minutes</td>
       <td>General Discussion 2 - What does the OOD problem mean to you and your field? </td>
       <td>Anima Anandkumar, Terry Sejnowski, Chris White</td>
       <td>Weiwei Yang, Joshua Vogelstein</td>
     </tr>
     <tr>
-      <td>14:30 - 14:50</td>
+      <td>2:30 - 2:50 p.m.</td>
       <td>20 minutes</td>
       <td colspan="3" style="text-align:center">BREAK</td>
     </tr>
     <tr>
-      <td>14:50 - 15:20</td>
+      <td>2:50 p.m. - 3:20 p.m.</td>
       <td>30 minutes</td>
       <td>Live Q&amp;A Session 2</td>
       <td>Susan Athey, Yoshua Bengio, Emre Kiciman, Jane Wang</td>
