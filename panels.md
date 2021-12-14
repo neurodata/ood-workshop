@@ -298,12 +298,6 @@ layout: default
         url.searchParams.set('p', panelName);
     }
 
-    // window.document.onload = function(e){ 
-    //     openPanel(e, 'Continual');
-    // }
-    // setTimeout(function() { openPanel(event, 'Continual'); }, 1000);
-    // document.getElementById('first_tab').className += " active";
-    // window.document.onload = function(e){ 
     var url_string = window.location.href
     var url = new URL(url_string);
     var panelName = url.searchParams.get("p");
@@ -312,8 +306,11 @@ layout: default
         document.getElementById(tabID).dispatchEvent(
           new Event('click', { bubbles:true }))
     } else {
-        document.getElementById('Continual_tab').dispatchEvent(
-          new Event('click', { bubbles:true }))
+        setTimeout(function() { 
+            document.getElementById('Continual_tab').dispatchEvent(
+            new Event('click', { bubbles:true })) }
+        , 1000);
+        
     }
     // }
     
