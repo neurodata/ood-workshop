@@ -45,8 +45,8 @@ This is the primary schedule of the workshop. All slots are provided in Eastern 
       <td><strong><em>Moderators</em></strong></td>
     </tr>
     <tr>
-      <td rowspan="7">Morning Session</td>
-      <td rowspan="7">9:00 am - 1:00 pm ET</td>
+      <td rowspan="4">Morning Session</td>
+      <td rowspan="4">9:00 am - 1:00 pm ET</td>
       <td>9:00 - 9:15</td>
       <td>15 minutes</td>
       <td>Introduction<br />Welcome Remarks</td>
@@ -74,8 +74,8 @@ This is the primary schedule of the workshop. All slots are provided in Eastern 
       <td>Joshua Vogelstein</td>
     </tr>
     <tr>
-      <td rowspan="7">Afternoon Session</td>
-      <td rowspan="7">1:30 pm - 3:20 pm ET</td>
+      <td rowspan="3">Afternoon Session</td>
+      <td rowspan="3">1:30 pm - 3:20 pm ET</td>
       <td>13:30 - 14:30</td>
       <td>60 minutes</td>
       <td>General Discussion 2 - What does the OOD problem mean to you and your field? </td>
