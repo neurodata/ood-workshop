@@ -10,6 +10,7 @@ layout: default
 **We decided not to include any paper sessions for this workshop due to the virtual nature of this workshop.**
 
 [https://nips.cc/virtual/2021/workshop/21852](https://nips.cc/virtual/2021/workshop/21852)
+
 [Submit your questions for our panel session here.](./question)
 
 
