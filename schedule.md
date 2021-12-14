@@ -46,7 +46,7 @@ This is the primary schedule of the workshop. All slots are provided in Eastern 
       <td>9:00 a.m.  - 9:15 a.m.</td>
       <td>15 minutes</td>
       <td>Introduction<br>Welcome Remarks</td>
-      <td colspan="2">Weiwei Yang, Joshua Vogelstein, Soledad Villar, Emre Kiciman, Zenna Tavares, Johnathan Flowers, Teresa Huang, Kaleab Alemayehu, Ronan Perry</td>
+      <td colspan="2">Weiwei Yang, Joshua Vogelstein, Soledad Villar, Emre Kiciman, Zenna Tavares, Johnathan Flowers, Teresa Huang, Kaleab Kinfu, Ronan Perry</td>
     </tr>
     <tr>
       <td>9:15 a.m. - 10:15 a.m.</td>
