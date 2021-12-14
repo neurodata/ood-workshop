@@ -36,14 +36,14 @@ This is the primary schedule of the workshop. All slots are provided in Eastern 
 <table>
   <tbody>
     <tr>  
-      <td> </td>
+      <td width="16%"> </td>
       <td><strong><em>Time(ET)</em></strong></td>
-      <td><strong><em>Panel Topic</em></strong></td>
+      <td width="30%"><strong><em>Panel Topic</em></strong></td>
       <td><strong><em>Panelists</em></strong></td>
       <td><strong><em>Moderators</em></strong></td>
     </tr>
     <tr>
-      <td>9:00 a.m.  - 9:15 a.m.</td>
+      <td>9:00 a.m. - 9:15 a.m.</td>
       <td>15 minutes</td>
       <td>Introduction<br>Welcome Remarks</td>
       <td colspan="2">Weiwei Yang, Joshua Vogelstein, Soledad Villar, Emre Kiciman, Zenna Tavares, Johnathan Flowers, Teresa Huang, Kaleab Kinfu, Ronan Perry</td>
@@ -98,66 +98,41 @@ This is the primary schedule of the workshop. All slots are provided in Eastern 
       <td>Susan Athey, Yoshua Bengio, Emre Kiciman, Jane Wang</td>
       <td>Joshua Vogelstein, Weiwei Yang</td>
     </tr>
-    <!-- <tr>
-      <td rowspan="7">Extended Session</td>
-      <td rowspan="7">9:00 am - 1:00 pm ET</td>
-      <td>10:00 - 10:45</td>
-      <td>45 minutes</td>
+    <tr>
+      <td></td>
+      <td></td>
       <td>Constraints</td>
       <td>Doug Burger, Alysson Muotri, Florian Engert, Ralph Etienne-Cummings</td>
       <td>Soledad Villar, Teresa Huang</td>
     </tr>
     <tr>
-      <td>10:45 - 11:30</td>
-      <td>45 minutes</td>
+      <td></td>
+      <td></td>
       <td>Causal</td>
       <td>Susan Athey, Konrad Kording, Amit Sharma</td>
       <td>Emre Kiciman</td>
     </tr>
     <tr>
-      <td>11:30 – 11:45</td>
-      <td>15 minutes</td>
-      <td colspan="3" style="text-align:center">BREAK</td>
-    </tr>
-    <tr>
-      <td>11:45 - 12:30</td>
-      <td>45 minutes</td>
+      <td></td>
+      <td></td>
       <td>Compositional</td>
       <td>Judith Fan, Kevin Ellis, Brenden Lake, Josh Tenenbaum</td>
       <td>Zenna Tavares</td>
     </tr>
     <tr>
-      <td>12:30 - 1:00</td>
-      <td>30 minutes</td>
-      <td>Live Q&amp;A<br>Part 1</td>
-      <td>Yoshua Bengio, Leyla Lsik, Ralph Etienne-Cummings, Konrad Kording, Amit Sharma, Sujeeth Bharadwaj</td>
-      <td>Joshua Vogelstein, Weiwei Yang</td>
-    </tr>
-    <tr>
-      <td colspan="7" style="text-align:center">BREAK</td>
-    </tr>
-    <tr>
-      <td rowspan="5">Afternoon Session</td>
-      <td rowspan="5">2:00 pm - 5:00 pm ET</td>
-      <td>2:00 - 2:45</td>
-      <td>45 minutes</td>
+      <td></td>
+      <td></td>
       <td>Curiosity</td>
       <td>Celeste Kidd, Chelsea Finn, Timothy Verstynen</td>
       <td>Johnathan Flowers,<br>Kaleab Kinfu</td>
     </tr>
     <tr>
-      <td>2:45 - 3:30</td>
-      <td>45 minutes</td>
+      <td></td>
+      <td></td>
       <td>Continual</td>
       <td>Jane Wang, Eric Traut, Gabriel Silva, Sujeeth Bharadwaj</td>
       <td>Weiwei Yang</td>
-    </tr>
-    <tr>
-      <td>3:30 - 3:45</td>
-      <td>15 minutes</td>
-      <td colspan="3" style="text-align:center">BREAK</td>
-    </tr> -->
-   
+    </tr>   
   </tbody>
 </table>
 
