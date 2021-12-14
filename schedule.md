@@ -70,7 +70,7 @@ This is the primary schedule of the workshop. All slots are provided in Eastern 
     <tr>
       <td>11:00 a.m. - 1:00 p.m.</td>
       <td>120 minutes</td>
-      <td>Extended Live Q&amp;A Session and Learning Salong</td>
+      <td>Extended Live Q&amp;A Session and Learning Salon</td>
       <td>Joshua Vogelstein</td>
       <td>Joshua Vogelstein</td>
     </tr>
